@@ -1,0 +1,17 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ec434820-98b3-4b33-9fbd-297f697ba366" name="blinkt" url="http://blinktpi.local">
+        <fileTransfer host="blinktpi.local" port="22" rootFolder="/home/pi" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAAAcJu1Lyfge8IWof5aKQr8ZwShBHT0pd5oo+HWPtB7lwdPeBSIAG6ypmSSIaMCDVnFToSkVCyG5Kgy0/gyIGwixY3r66O93b4JCTtIT8oDRBkHBWIlP+fFSc0HwrQRL/qCNsoGnwdN0F7igdLin5m+EfLoUshCoF94up2c+Mgm7cQH</data>
+  </component>
+</application>

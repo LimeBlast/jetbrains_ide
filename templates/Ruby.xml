@@ -1,0 +1,8 @@
+<templateSet group="Ruby">
+  <template name="debug" value="Rails.logger.debug '#############################################'&#10;Rails.logger.debug $OUTPUT$&#10;Rails.logger.debug '#############################################'" toReformat="false" toShortenFQNames="true">
+    <variable name="OUTPUT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
+</templateSet>
