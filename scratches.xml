@@ -2,53 +2,9 @@
   <component name="ScratchFileService">
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.haml" value="HAML" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.js" value="JavaScript" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.rb" value="ruby" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.sh" value="Bash" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" value="XML" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.haml" value="HAML" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" value="JavaScript" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.rb" value="ruby" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.xml" value="XML" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_11" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_12" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_13" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_14" value="ruby" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_15" value="Bash" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_16" value="Markdown" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_17" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_18" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_19" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.haml" value="HAML" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.rb" value="ruby" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.xml" value="XML" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_20" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_21" value="XML" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3" value="MySQL" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.rb" value="ruby" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.xml" value="XML" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.rb" value="ruby" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.xml" value="XML" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5" value="ruby" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.rb" value="ruby" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.xml" value="XML" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6" value="ruby" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6.rb" value="ruby" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6.xml" value="XML" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7" value="ruby" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7.xml" value="XML" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_9" value="TEXT" />
   </component>
 </application>
