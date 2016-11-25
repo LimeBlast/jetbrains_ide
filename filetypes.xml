@@ -8,6 +8,7 @@
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".env.cloud66" type="PLAIN_TEXT" />
       <mapping pattern="logrotate" type="PLAIN_TEXT" />
+      <mapping pattern="passwords" type="PLAIN_TEXT" />
       <mapping pattern=".env.example.orig" type="PLAIN_TEXT" />
       <mapping pattern="staging" type="PLAIN_TEXT" />
       <mapping pattern=".erdconfig" type="PLAIN_TEXT" />
