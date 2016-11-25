@@ -28596,6 +28596,14 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.2/ruby_stubs/752981732/1598195157/gems/will_paginate-bootstrap-1.0.0/example" />
       </SOURCES>
     </library>
+    <library name="wisper (v1.6.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/wisper-1.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/wisper-1.6.1/lib" />
+      </SOURCES>
+    </library>
     <library name="wisper (v2.0.0.rc1, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/wisper-2.0.0.rc1/lib" />
@@ -28628,6 +28636,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/wisper-rspec-0.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="wisper-rspec (v0.0.2, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/wisper-rspec-0.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/wisper-rspec-0.0.2/lib" />
       </SOURCES>
     </library>
     <library name="wisper-rspec-0.0.2 (v0.0.2, rbenv: 2.3.0) [gem]">
