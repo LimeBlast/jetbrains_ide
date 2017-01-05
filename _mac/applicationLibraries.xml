@@ -1566,6 +1566,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/acts-as-taggable-on-3.5.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="acts_as_commentable (v4.0.2, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/acts_as_commentable-4.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/acts_as_commentable-4.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="acts_as_list (v0.1.4, Remote:ruby-1.9.3-p551 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.3/ruby_stubs/1809517403/1598195157/gems/acts_as_list-0.1.4/lib" />
