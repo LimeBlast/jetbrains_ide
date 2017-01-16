@@ -4968,6 +4968,20 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.13.6/man" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.13.7, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.13.7/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.13.7/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.13.7/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.13.7/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.13.7/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.13.7/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.13.7/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.13.7/man" />
+      </SOURCES>
+    </library>
     <library name="bundler-1.11.2 (v1.11.2, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bundler-1.11.2/bin" />
@@ -30946,6 +30960,18 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/skylight-0.10.6/bin" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/skylight-0.10.6/ext" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/skylight-0.10.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="skylight (v0.10.6, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/skylight-0.10.6/bin" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/skylight-0.10.6/ext" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/skylight-0.10.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/skylight-0.10.6/bin" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/skylight-0.10.6/ext" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/skylight-0.10.6/lib" />
       </SOURCES>
     </library>
     <library name="skylight (v1.0.0, rbenv: 2.3.1) [gem]">
