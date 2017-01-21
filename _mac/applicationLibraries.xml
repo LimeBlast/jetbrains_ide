@@ -8198,6 +8198,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/database_cleaner-1.5.1/features" />
       </SOURCES>
     </library>
+    <library name="date_validator (v0.9.0, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/date_validator-0.9.0/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/date_validator-0.9.0/locales" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/date_validator-0.9.0/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/date_validator-0.9.0/locales" />
+      </SOURCES>
+    </library>
     <library name="db_populate (v0.2.6@9a5f3c, rbenv: 1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p551/lib/ruby/gems/1.9.1/bundler/gems/db_populate-9a5f3c1c27a8/lib" />
@@ -30700,6 +30710,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/simple_form-3.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="simple_form (v3.4.0, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/simple_form-3.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/simple_form-3.4.0/lib" />
       </SOURCES>
     </library>
     <library name="simple_form (v3.4.0, ruby-2.3.3-p222) [gem]">
