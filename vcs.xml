@@ -3,7 +3,7 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/LimeBlast/family-boxes.git" />
+          <option name="url" value="git@github.com:LimeBlast/family-boxes.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
