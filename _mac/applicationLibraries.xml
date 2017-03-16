@@ -5324,6 +5324,20 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.3/ruby_stubs/-397575157/1598195157/gems/bundler-1.14.5/man" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.14.6, Remote:ruby-1.9.3-p551 (2)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.3/ruby_stubs/-397575157/1598195157/gems/bundler-1.14.6/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.3/ruby_stubs/-397575157/1598195157/gems/bundler-1.14.6/exe" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.3/ruby_stubs/-397575157/1598195157/gems/bundler-1.14.6/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.3/ruby_stubs/-397575157/1598195157/gems/bundler-1.14.6/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.3/ruby_stubs/-397575157/1598195157/gems/bundler-1.14.6/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.3/ruby_stubs/-397575157/1598195157/gems/bundler-1.14.6/exe" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.3/ruby_stubs/-397575157/1598195157/gems/bundler-1.14.6/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.3/ruby_stubs/-397575157/1598195157/gems/bundler-1.14.6/man" />
+      </SOURCES>
+    </library>
     <library name="bundler-1.11.2 (v1.11.2, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bundler-1.11.2/bin" />
