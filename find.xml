@@ -2,7 +2,6 @@
   <component name="FindSettings">
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
-    <option name="FILE_MASK" value="*.haml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
