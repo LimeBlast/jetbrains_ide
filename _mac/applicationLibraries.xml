@@ -996,6 +996,18 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/lib" />
       </SOURCES>
     </library>
+    <library name="calendar_date_select (v1.16.2@977048, Remote:ruby-1.9.3-p551 (3)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/bundler/gems/calendar_date_select-977048211b94/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/bundler/gems/calendar_date_select-977048211b94/public" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/bundler/gems/calendar_date_select-977048211b94/js_test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/bundler/gems/calendar_date_select-977048211b94/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/bundler/gems/calendar_date_select-977048211b94/public" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/bundler/gems/calendar_date_select-977048211b94/js_test" />
+      </SOURCES>
+    </library>
     <library name="calendar_date_select (v1.16.4, Remote:ruby-1.9.3-p551 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/calendar_date_select-1.16.4/lib" />
@@ -3672,6 +3684,16 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/nenv-0.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="nested_form (v0.3.2, Remote:ruby-1.9.3-p551 (3)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/nested_form-0.3.2/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/nested_form-0.3.2/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/nested_form-0.3.2/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/nested_form-0.3.2/vendor" />
+      </SOURCES>
+    </library>
     <library name="net-ssh (v2.7.0, Remote:ruby-1.9.3-p551 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/net-ssh-2.7.0/lib" />
@@ -3888,6 +3910,16 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/nyan-cat-formatter-0.11/lib" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/nyan-cat-formatter-0.11/data" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/nyan-cat-formatter-0.11/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="nyan-cat-formatter (v0.5.2, Remote:ruby-1.9.3-p551 (3)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/nyan-cat-formatter-0.5.2/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/nyan-cat-formatter-0.5.2/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/nyan-cat-formatter-0.5.2/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/nyan-cat-formatter-0.5.2/data" />
       </SOURCES>
     </library>
     <library name="oauth (v0.4.7, Remote:ruby-1.9.3-p551 (1)) [gem]">
@@ -5192,6 +5224,16 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/rspec_candy-0.4.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="rspec_candy (v0.4.1, Remote:ruby-1.9.3-p551 (3)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/rspec_candy-0.4.1/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/rspec_candy-0.4.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/rspec_candy-0.4.1/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/rspec_candy-0.4.1/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="ruby-debug-ide (v0.6.1.beta3, ruby-2.3.3-p222) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-debug-ide-0.6.1.beta3/bin" />
@@ -5536,6 +5578,52 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/shoulda-2.11.3/bin" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/shoulda-2.11.3/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/shoulda-2.11.3/rails" />
+      </SOURCES>
+    </library>
+    <library name="shoulda (v3.5.0, Remote:ruby-1.9.3-p551 (3)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/shoulda-3.5.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/shoulda-3.5.0/features" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/shoulda-3.5.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/shoulda-3.5.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/shoulda-3.5.0/features" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/shoulda-3.5.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="shoulda-context (v1.2.2, Remote:ruby-1.9.3-p551 (3)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/shoulda-context-1.2.2/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/shoulda-context-1.2.2/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/shoulda-context-1.2.2/rails" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/shoulda-context-1.2.2/tasks" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/shoulda-context-1.2.2/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/shoulda-context-1.2.2/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/shoulda-context-1.2.2/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/shoulda-context-1.2.2/rails" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/shoulda-context-1.2.2/tasks" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/shoulda-context-1.2.2/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="shoulda-matchers (v2.8.0, Remote:ruby-1.9.3-p551 (3)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/shoulda-matchers-2.8.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/shoulda-matchers-2.8.0/tasks" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/shoulda-matchers-2.8.0/script" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/shoulda-matchers-2.8.0/gemfiles" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/shoulda-matchers-2.8.0/doc_config" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/shoulda-matchers-2.8.0/.hound_config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/shoulda-matchers-2.8.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/shoulda-matchers-2.8.0/tasks" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/shoulda-matchers-2.8.0/script" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/shoulda-matchers-2.8.0/gemfiles" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/shoulda-matchers-2.8.0/doc_config" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/shoulda-matchers-2.8.0/.hound_config" />
       </SOURCES>
     </library>
     <library name="shoulda-matchers (v3.1.1, ruby-2.3.3-p222) [gem]">
@@ -6730,6 +6818,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/will_paginate-2.3.17/lib" />
+      </SOURCES>
+    </library>
+    <library name="will_paginate (v3.1.5, Remote:ruby-1.9.3-p551 (3)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/will_paginate-3.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/will_paginate-3.1.5/lib" />
       </SOURCES>
     </library>
     <library name="wisper (v1.6.1, ruby-2.3.3-p222) [gem]">
