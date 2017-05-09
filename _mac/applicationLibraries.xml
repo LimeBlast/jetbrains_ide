@@ -2306,6 +2306,14 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/climate_control-0.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="climate_control (v0.1.0, Remote:ruby-1.9.3-p551 (3)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/climate_control-0.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/climate_control-0.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="cliver (v0.3.2, Remote:ruby-1.9.3-p551 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.3/ruby_stubs/1809517403/1598195157/gems/cliver-0.3.2/lib" />
@@ -2340,6 +2348,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/cocaine-0.5.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="cocaine (v0.5.8, Remote:ruby-1.9.3-p551 (3)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/cocaine-0.5.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/cocaine-0.5.8/lib" />
       </SOURCES>
     </library>
     <library name="cocoon (v1.2.6, Remote:ruby-1.9.3-p551) [gem]">
@@ -7142,6 +7158,20 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/paper_trail-6.0.2/lib" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/paper_trail-6.0.2/.github" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/paper_trail-6.0.2/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="paperclip (v2.3.16, Remote:ruby-1.9.3-p551 (3)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/paperclip-2.3.16/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/paperclip-2.3.16/rails" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/paperclip-2.3.16/generators" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/paperclip-2.3.16/shoulda_macros" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/paperclip-2.3.16/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/paperclip-2.3.16/rails" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/paperclip-2.3.16/generators" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/paperclip-2.3.16/shoulda_macros" />
       </SOURCES>
     </library>
     <library name="paperclip (v2.3.4, Remote:ruby-1.9.3-p551 (1)) [gem]">
