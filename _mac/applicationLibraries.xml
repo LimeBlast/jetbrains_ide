@@ -232,6 +232,14 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/activerecord-5.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="activerecord-deprecated_finders (v1.0.4, Remote:ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/activerecord-deprecated_finders-1.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/activerecord-deprecated_finders-1.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="activeresource (v2.3.18.18, Remote:ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1809517403/1598195157/gems/activeresource-2.3.18.18/lib" />
