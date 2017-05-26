@@ -39,6 +39,7 @@
         </library>
       </artifact>
       <option name="auto-sync" value="true" />
+      <property name="enable_load_extension" value="true" />
     </driver>
     <driver id="sybase.ase" name="Sybase (Native)" dialect="Sybase">
       <option name="auto-sync" value="true" />
@@ -47,12 +48,6 @@
       <artifact name="PostgreSQL" use="true" version="9.4-1201" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
-      <library>
-        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/postgresql-driver-license.txt</url>
-      </library>
-      <library>
-        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/postgresql-9.4-1201.jdbc4.jar</url>
-      </library>
     </driver>
     <driver id="db2" name="DB2 (LUW)" dialect="DB2">
       <artifact name="DB2" use="true" />
