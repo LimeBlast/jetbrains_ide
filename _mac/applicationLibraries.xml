@@ -3804,6 +3804,14 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1973484383/1788567091/gems/concurrent-ruby-1.0.5/lib" />
       </SOURCES>
     </library>
+    <library name="concurrent-ruby (v1.0.5, Remote:ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/concurrent-ruby-1.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/concurrent-ruby-1.0.5/lib" />
+      </SOURCES>
+    </library>
     <library name="concurrent-ruby (v1.0.5, ruby-2.3.3-p222) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/concurrent-ruby-1.0.5/lib" />
@@ -16744,6 +16752,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/todonotes-0.2.2/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/todonotes-0.2.2/unittest" />
+      </SOURCES>
+    </library>
+    <library name="tracebin (v0.0.13, Remote:ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/tracebin-0.0.13/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/tracebin-0.0.13/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/tracebin-0.0.13/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/tracebin-0.0.13/lib" />
       </SOURCES>
     </library>
     <library name="transpec (v3.3.0, Remote:ruby-2.3.4-p301) [gem]">
