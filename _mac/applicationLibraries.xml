@@ -2884,6 +2884,16 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/calendar_date_select-1.16.4/js_test" />
       </SOURCES>
     </library>
+    <library name="calendar_date_select (v2.1.2, Remote:ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/calendar_date_select-2.1.2/app" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/calendar_date_select-2.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/calendar_date_select-2.1.2/app" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/calendar_date_select-2.1.2/lib" />
+      </SOURCES>
+    </library>
     <library name="callsite (v0.0.11, Remote:ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.3/ruby_stubs/752981732/1598195157/gems/callsite-0.0.11/lib" />
@@ -9176,6 +9186,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/mail-2.5.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="mail (v2.5.5, Remote:ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/mail-2.5.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/mail-2.5.5/lib" />
       </SOURCES>
     </library>
     <library name="mail (v2.6.3, Remote:ruby-2.0.0-p643) [gem]">
