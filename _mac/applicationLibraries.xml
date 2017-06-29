@@ -13692,6 +13692,16 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/roo-1.13.2/website" />
       </SOURCES>
     </library>
+    <library name="roo (v2.7.1, Remote:ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/roo-2.7.1/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/roo-2.7.1/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/roo-2.7.1/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/roo-2.7.1/.github" />
+      </SOURCES>
+    </library>
     <library name="rspec (v2.14.1, Remote:ruby-1.9.3-p551 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/rspec-2.14.1/lib" />
@@ -14752,6 +14762,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/rubyzip-1.2.0/lib" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/rubyzip-1.2.0/samples" />
+      </SOURCES>
+    </library>
+    <library name="rubyzip (v1.2.1, Remote:ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/rubyzip-1.2.1/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/rubyzip-1.2.1/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/rubyzip-1.2.1/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/rubyzip-1.2.1/samples" />
       </SOURCES>
     </library>
     <library name="rubyzip (v1.2.1, ruby-2.3.3-p222) [gem]">
