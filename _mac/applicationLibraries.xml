@@ -10858,6 +10858,20 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/paperclip-2.3.4/shoulda_macros" />
       </SOURCES>
     </library>
+    <library name="paperclip (v2.4.5, Remote:ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/paperclip-2.4.5/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/paperclip-2.4.5/rails" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/paperclip-2.4.5/generators" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/paperclip-2.4.5/shoulda_macros" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/paperclip-2.4.5/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/paperclip-2.4.5/rails" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/paperclip-2.4.5/generators" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/paperclip-2.4.5/shoulda_macros" />
+      </SOURCES>
+    </library>
     <library name="paperclip (v2.7.0, Remote:ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.3/ruby_stubs/752981732/1598195157/gems/paperclip-2.7.0/lib" />
