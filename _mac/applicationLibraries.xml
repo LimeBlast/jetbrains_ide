@@ -8956,6 +8956,20 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/770529800/1788567091/gems/rack-1.6.5/example" />
       </SOURCES>
     </library>
+    <library name="rack (v1.6.8, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/rack-1.6.8/bin" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/rack-1.6.8/lib" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/rack-1.6.8/contrib" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/rack-1.6.8/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/rack-1.6.8/bin" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/rack-1.6.8/lib" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/rack-1.6.8/contrib" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/rack-1.6.8/example" />
+      </SOURCES>
+    </library>
     <library name="rack (v2.0.1, ruby-2.3.3-p222) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/rack-2.0.1/bin" />
@@ -9172,6 +9186,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/rack-mount-0.6.14/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-protection (v1.5.3, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/rack-protection-1.5.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/rack-protection-1.5.3/lib" />
       </SOURCES>
     </library>
     <library name="rack-ssl (v1.3.4, Remote:ruby-1.9.3-p551 (1)) [gem]">
@@ -12974,6 +12996,18 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/tilt-2.0.5/bin" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/tilt-2.0.5/lib" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/tilt-2.0.5/man" />
+      </SOURCES>
+    </library>
+    <library name="tilt (v2.0.7, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/tilt-2.0.7/bin" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/tilt-2.0.7/lib" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/tilt-2.0.7/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/tilt-2.0.7/bin" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/tilt-2.0.7/lib" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/tilt-2.0.7/man" />
       </SOURCES>
     </library>
     <library name="tilt (v2.0.7, ruby-2.3.3-p222) [gem]">
