@@ -1872,18 +1872,18 @@
     </library>
     <library name="bundler (v1.15.1, Remote:ruby-1.9.3-p551) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-397575157/1598195157/gems/bundler-1.15.1/bin" />
-        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-397575157/1598195157/gems/bundler-1.15.1/exe" />
-        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-397575157/1598195157/gems/bundler-1.15.1/lib" />
-        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-397575157/1598195157/gems/bundler-1.15.1/man" />
-        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-397575157/1598195157/gems/bundler-1.15.1/task" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1957559856/328528048/gems/bundler-1.15.1/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1957559856/328528048/gems/bundler-1.15.1/exe" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1957559856/328528048/gems/bundler-1.15.1/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1957559856/328528048/gems/bundler-1.15.1/man" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1957559856/328528048/gems/bundler-1.15.1/task" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-397575157/1598195157/gems/bundler-1.15.1/bin" />
-        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-397575157/1598195157/gems/bundler-1.15.1/exe" />
-        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-397575157/1598195157/gems/bundler-1.15.1/lib" />
-        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-397575157/1598195157/gems/bundler-1.15.1/man" />
-        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-397575157/1598195157/gems/bundler-1.15.1/task" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1957559856/328528048/gems/bundler-1.15.1/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1957559856/328528048/gems/bundler-1.15.1/exe" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1957559856/328528048/gems/bundler-1.15.1/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1957559856/328528048/gems/bundler-1.15.1/man" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1957559856/328528048/gems/bundler-1.15.1/task" />
       </SOURCES>
     </library>
     <library name="bundler (v1.15.1, Remote:ruby-2.3.3-p222 (1)) [gem]">
@@ -4786,6 +4786,20 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/foreman-0.84.0/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/foreman-0.84.0/man" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/foreman-0.84.0/data" />
+      </SOURCES>
+    </library>
+    <library name="foreman (v0.84.0, Remote:ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1957559856/328528048/gems/foreman-0.84.0/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1957559856/328528048/gems/foreman-0.84.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1957559856/328528048/gems/foreman-0.84.0/man" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1957559856/328528048/gems/foreman-0.84.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1957559856/328528048/gems/foreman-0.84.0/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1957559856/328528048/gems/foreman-0.84.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1957559856/328528048/gems/foreman-0.84.0/man" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1957559856/328528048/gems/foreman-0.84.0/data" />
       </SOURCES>
     </library>
     <library name="foreman (v0.84.0, Remote:ruby-2.0.0-p643) [gem]">
@@ -9816,6 +9830,14 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/rake-0.9.2.2/bin" />
       </SOURCES>
     </library>
+    <library name="rake (v0.9.2.2, Remote:ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1957559856/328528048/gems/rake-0.9.2.2/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1957559856/328528048/gems/rake-0.9.2.2/bin" />
+      </SOURCES>
+    </library>
     <library name="rake (v0.9.6, Remote:ruby-1.9.3-p551 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/rake-0.9.6/bin" />
@@ -10132,6 +10154,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/rdoc-3.9.5/bin" />
+      </SOURCES>
+    </library>
+    <library name="rdoc (v3.9.5, Remote:ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1957559856/328528048/gems/rdoc-3.9.5/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1957559856/328528048/gems/rdoc-3.9.5/bin" />
       </SOURCES>
     </library>
     <library name="rdoc (v4.1.1, Remote:ruby-2.0.0-p643) [gem]">
@@ -12748,6 +12778,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/thor-0.19.4/bin" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/thor-0.19.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="thor (v0.19.4, Remote:ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1957559856/328528048/gems/thor-0.19.4/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1957559856/328528048/gems/thor-0.19.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1957559856/328528048/gems/thor-0.19.4/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1957559856/328528048/gems/thor-0.19.4/lib" />
       </SOURCES>
     </library>
     <library name="thor (v0.19.4, Remote:ruby-2.0.0-p643) [gem]">
