@@ -2322,6 +2322,14 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/daemons-1.2.4/lib" />
       </SOURCES>
     </library>
+    <library name="daemons (v1.2.4, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/daemons-1.2.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/daemons-1.2.4/lib" />
+      </SOURCES>
+    </library>
     <library name="database_cleaner (v1.5.0, Remote:ruby-1.9.3-p551 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/database_cleaner-1.5.0/lib" />
@@ -3462,6 +3470,22 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/erubis-2.7.0/contrib" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/erubis-2.7.0/doc-api" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/erubis-2.7.0/benchmark" />
+      </SOURCES>
+    </library>
+    <library name="eventmachine (v1.0.9.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/eventmachine-1.0.9.1/ext" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/eventmachine-1.0.9.1/lib" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/eventmachine-1.0.9.1/java" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/eventmachine-1.0.9.1/tests" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/eventmachine-1.0.9.1/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/eventmachine-1.0.9.1/ext" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/eventmachine-1.0.9.1/lib" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/eventmachine-1.0.9.1/java" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/eventmachine-1.0.9.1/tests" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/eventmachine-1.0.9.1/rakelib" />
       </SOURCES>
     </library>
     <library name="eventmachine (v1.2.0.1, Remote:ruby-2.3.3-p222) [gem]">
@@ -5890,6 +5914,28 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1973484383/1788567091/gems/mail-2.6.6/lib" />
       </SOURCES>
     </library>
+    <library name="mail (v2.6.6, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/mail-2.6.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/mail-2.6.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="mailcatcher (v0.6.5, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/mailcatcher-0.6.5/bin" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/mailcatcher-0.6.5/lib" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/mailcatcher-0.6.5/views" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/mailcatcher-0.6.5/public" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/mailcatcher-0.6.5/bin" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/mailcatcher-0.6.5/lib" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/mailcatcher-0.6.5/views" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/mailcatcher-0.6.5/public" />
+      </SOURCES>
+    </library>
     <library name="method_source (v0.8.2, Remote:ruby-2.3.3-p222 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1973484383/1788567091/gems/method_source-0.8.2/lib" />
@@ -5962,6 +6008,14 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/770529800/1788567091/gems/mime-types-3.1/lib" />
       </SOURCES>
     </library>
+    <library name="mime-types (v3.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/mime-types-3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/mime-types-3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="mime-types (v3.1, ruby-2.3.3-p222) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/mime-types-3.1/lib" />
@@ -5988,6 +6042,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/770529800/1788567091/gems/mime-types-data-3.2016.0521/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/770529800/1788567091/gems/mime-types-data-3.2016.0521/data" />
+      </SOURCES>
+    </library>
+    <library name="mime-types-data (v3.2016.0521, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/mime-types-data-3.2016.0521/lib" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/mime-types-data-3.2016.0521/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/mime-types-data-3.2016.0521/lib" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/mime-types-data-3.2016.0521/data" />
       </SOURCES>
     </library>
     <library name="mime-types-data (v3.2016.0521, ruby-2.3.3-p222) [gem]">
@@ -7564,6 +7628,20 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/770529800/1788567091/gems/rack-1.6.5/example" />
       </SOURCES>
     </library>
+    <library name="rack (v1.6.8, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/rack-1.6.8/bin" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/rack-1.6.8/lib" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/rack-1.6.8/contrib" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/rack-1.6.8/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/rack-1.6.8/bin" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/rack-1.6.8/lib" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/rack-1.6.8/contrib" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/rack-1.6.8/example" />
+      </SOURCES>
+    </library>
     <library name="rack (v2.0.1, ruby-2.3.3-p222) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/rack-2.0.1/bin" />
@@ -7750,6 +7828,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/rack-mount-0.6.14/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-protection (v1.5.3, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/rack-protection-1.5.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/rack-protection-1.5.3/lib" />
       </SOURCES>
     </library>
     <library name="rack-ssl (v1.3.4, Remote:ruby-1.9.3-p551 (1)) [gem]">
@@ -10202,6 +10288,22 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/simplecov-html-0.9.0/public" />
       </SOURCES>
     </library>
+    <library name="sinatra (v1.4.8, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/sinatra-1.4.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/sinatra-1.4.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="skinny (v0.2.4, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/skinny-0.2.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/skinny-0.2.4/lib" />
+      </SOURCES>
+    </library>
     <library name="skylight (v0.10.6, ruby-2.3.3-p222) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/skylight-0.10.6/bin" />
@@ -10798,6 +10900,20 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/sample" />
       </SOURCES>
     </library>
+    <library name="thin (v1.5.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/thin-1.5.1/bin" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/thin-1.5.1/ext" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/thin-1.5.1/lib" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/thin-1.5.1/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/thin-1.5.1/bin" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/thin-1.5.1/ext" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/thin-1.5.1/lib" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/thin-1.5.1/example" />
+      </SOURCES>
+    </library>
     <library name="thor (v0.14.6, Remote:ruby-1.9.3-p551 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/-648927872/328528048/gems/thor-0.14.6/bin" />
@@ -11040,6 +11156,18 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/tilt-2.0.5/bin" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/tilt-2.0.5/lib" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/tilt-2.0.5/man" />
+      </SOURCES>
+    </library>
+    <library name="tilt (v2.0.7, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/tilt-2.0.7/bin" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/tilt-2.0.7/lib" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/tilt-2.0.7/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/tilt-2.0.7/bin" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/tilt-2.0.7/lib" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/tilt-2.0.7/man" />
       </SOURCES>
     </library>
     <library name="tilt (v2.0.7, ruby-2.3.3-p222) [gem]">
