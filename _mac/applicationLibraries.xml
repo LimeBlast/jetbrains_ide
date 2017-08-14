@@ -6608,6 +6608,7 @@
     </library>
     <library name="nokogiri (v1.6.8.1, Remote:ruby-2.3.4-p301) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.6.8.1" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/nokogiri-1.6.8.1/bin" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/nokogiri-1.6.8.1/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/nokogiri-1.6.8.1/lib" />
@@ -6616,6 +6617,7 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/nokogiri-1.6.8.1/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.6.8.1" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/nokogiri-1.6.8.1/bin" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/nokogiri-1.6.8.1/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1989056504/1999918004/gems/nokogiri-1.6.8.1/lib" />
