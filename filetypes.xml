@@ -10,6 +10,7 @@
       <mapping pattern=".env.example.orig" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
+      <mapping pattern="ENABLE_INSTALL_TOOL" type="PLAIN_TEXT" />
       <mapping pattern="rbenv_vars" type="PLAIN_TEXT" />
       <mapping pattern="Procfile_qa" type="PLAIN_TEXT" />
       <mapping pattern=".env.cloud66" type="PLAIN_TEXT" />
