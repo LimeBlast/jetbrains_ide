@@ -1506,6 +1506,14 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/bigdecimal" />
       </SOURCES>
     </library>
+    <library name="bigdecimal (v1.2.8, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/2.3.0/bigdecimal" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/2.3.0/bigdecimal" />
+      </SOURCES>
+    </library>
     <library name="bindex (v0.5.0, ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/bindex-0.5.0/ext" />
@@ -3024,6 +3032,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta10/lib" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.2.beta10, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta10/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta10/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta10/lib" />
+      </SOURCES>
+    </library>
     <library name="debase (v0.2.2.beta10, ruby-2.3.5-p376) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.5/lib/ruby/gems/2.3.0/gems/debase-0.2.2.beta10/ext" />
@@ -3045,6 +3063,16 @@
       </SOURCES>
     </library>
     <library name="debase (v0.2.2.beta9, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta9/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta9/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta9/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase (v0.2.2.beta9, ruby-2.3.3-p222) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta9/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/debase-0.2.2.beta9/lib" />
@@ -6380,6 +6408,14 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/json/add" />
       </SOURCES>
     </library>
+    <library name="json (v1.8.3, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/2.3.0/json/add" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/2.3.0/json/add" />
+      </SOURCES>
+    </library>
     <library name="json (v1.8.6, Remote:ruby-2.3.5-p376 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1792542999/-2083698379/gems/json-1.8.6/ext" />
@@ -8500,6 +8536,20 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/psych/json" />
       </SOURCES>
     </library>
+    <library name="psych (v2.1.0, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/2.3.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/2.3.0/psych/visitors" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/2.3.0/psych/json" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/2.3.0/psych/handlers" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/2.3.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/2.3.0/psych/visitors" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/2.3.0/psych/json" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/2.3.0/psych/handlers" />
+      </SOURCES>
+    </library>
     <library name="public_activity (v1.5.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/gems/2.3.0/gems/public_activity-1.5.0/lib" />
@@ -10002,6 +10052,30 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/rdoc/stats" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/rdoc/parser" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.1/lib/ruby/2.3.0/rdoc/ri" />
+      </SOURCES>
+    </library>
+    <library name="rdoc (v4.2.1, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/2.3.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/2.3.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/2.3.0/rdoc/generator" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/2.3.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/2.3.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/2.3.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/2.3.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/2.3.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/2.3.0/rdoc/context" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/2.3.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/2.3.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/2.3.0/rdoc/generator" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/2.3.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/2.3.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/2.3.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/2.3.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/2.3.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/2.3.0/rdoc/context" />
       </SOURCES>
     </library>
     <library name="recipient_interceptor (v0.1.2, Remote:ruby-2.3.3-p222) [gem]">
