@@ -4932,6 +4932,18 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.48.1/config" />
       </SOURCES>
     </library>
+    <library name="ruby-debug-ide (v0.6.1.beta10, Remote:ruby-2.3.5-p376 (1)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1792542999/-1748718285/gems/ruby-debug-ide-0.6.1.beta10/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1792542999/-1748718285/gems/ruby-debug-ide-0.6.1.beta10/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1792542999/-1748718285/gems/ruby-debug-ide-0.6.1.beta10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1792542999/-1748718285/gems/ruby-debug-ide-0.6.1.beta10/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1792542999/-1748718285/gems/ruby-debug-ide-0.6.1.beta10/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1792542999/-1748718285/gems/ruby-debug-ide-0.6.1.beta10/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby-debug-ide (v0.6.1.beta9, Remote:ruby-2.3.5-p376 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1792542999/-1748718285/gems/ruby-debug-ide-0.6.1.beta9/bin" />
