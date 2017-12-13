@@ -6,6 +6,10 @@
           <option name="url" value="git@github.com:LimeBlast/family-boxes.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:LimeBlast/home-assistant-saurus-towers.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Workspace" />
