@@ -5926,6 +5926,18 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/haml-4.0.7/lib" />
       </SOURCES>
     </library>
+    <library name="haml (v5.0.4, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/haml-5.0.4/bin" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/haml-5.0.4/yard" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/haml-5.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/haml-5.0.4/bin" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/haml-5.0.4/yard" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/haml-5.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="haml-rails (v0.3.4, ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-1.9.3-p551/lib/ruby/gems/1.9.1/gems/haml-rails-0.3.4/lib" />
@@ -5972,6 +5984,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/haml-rails-0.9.0/lib" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/haml-rails-0.9.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="haml-rails (v1.0.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/haml-rails-1.0.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/haml-rails-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/haml-rails-1.0.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/haml-rails-1.0.0/lib" />
       </SOURCES>
     </library>
     <library name="hanami (v1.0.0, ruby-2.3.5-p376) [gem]">
@@ -6420,6 +6442,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/html2haml-2.1.0/bin" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/html2haml-2.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="html2haml (v2.2.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/html2haml-2.2.0/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/html2haml-2.2.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/html2haml-2.2.0/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/html2haml-2.2.0/bin" />
       </SOURCES>
     </library>
     <library name="html5-boilerplate (v1.0.0, ruby-1.9.3-p551) [gem]">
@@ -7574,6 +7606,20 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/listen-3.1.5/bin" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/listen-3.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="logs (v0.2.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/logs-0.2.0/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/logs-0.2.0/app" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/logs-0.2.0/vendor" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/logs-0.2.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/logs-0.2.0/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/logs-0.2.0/app" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/logs-0.2.0/vendor" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/logs-0.2.0/config" />
       </SOURCES>
     </library>
     <library name="loofah (v2.0.3, Remote:ruby-2.3.3-p222) [gem]">
@@ -14160,6 +14206,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rubies/ruby-1.9.3-p551/lib/ruby/gems/1.9.1/gems/temple-0.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="temple (v0.8.0, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/temple-0.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/temple-0.8.0/lib" />
       </SOURCES>
     </library>
     <library name="test-unit (v1.2.3, Remote:ruby-2.3.5-p376 (1)) [gem]">
