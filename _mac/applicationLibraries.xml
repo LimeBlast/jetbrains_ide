@@ -3986,6 +3986,18 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/middleman-livereload-3.1.1/fixtures" />
       </SOURCES>
     </library>
+    <library name="middleman-livereload (v3.4.6, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/middleman-livereload-3.4.6/features" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/middleman-livereload-3.4.6/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/middleman-livereload-3.4.6/fixtures" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/middleman-livereload-3.4.6/features" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/middleman-livereload-3.4.6/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/middleman-livereload-3.4.6/fixtures" />
+      </SOURCES>
+    </library>
     <library name="middleman-smusher (v3.0.0, ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/middleman-smusher-3.0.0/lib" />
