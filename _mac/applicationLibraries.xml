@@ -3974,6 +3974,14 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/middleman-favicon-maker-3.7/lib" />
       </SOURCES>
     </library>
+    <library name="middleman-gh-pages (v0.3.1, ruby-2.4.2-p198) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/middleman-gh-pages-0.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/middleman-gh-pages-0.3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="middleman-livereload (v3.1.1, ruby-2.4.2-p198) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/middleman-livereload-3.1.1/lib" />
