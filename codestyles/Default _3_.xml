@@ -1,6 +1,13 @@
-<code_scheme name="Default (3)">
+<code_scheme name="Default (3)" version="173">
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
   <option name="HTML_TEXT_WRAP" value="0" />
+  <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="0" />
+  <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+  <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+    <option name="HTML_TEXT_WRAP" value="0" />
+  </HTMLCodeStyleSettings>
   <codeStyleSettings language="HTML">
     <option name="WRAP_ON_TYPING" value="0" />
   </codeStyleSettings>
