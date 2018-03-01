@@ -572,20 +572,6 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/bullet-5.5.0/tasks" />
       </SOURCES>
     </library>
-    <library name="bundler (v1.13.7, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.13.7/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.13.7/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.13.7/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.13.7/man" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.13.7/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.13.7/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.13.7/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.13.7/man" />
-      </SOURCES>
-    </library>
     <library name="bundler (v1.16.0, Remote:ruby-2.3.5-p376 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1792542999/-2083698379/gems/bundler-1.16.0/exe" />
@@ -3516,20 +3502,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1792542999/-2083698379/gems/rspec_candy-0.4.1/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1792542999/-2083698379/gems/rspec_candy-0.4.1/gemfiles" />
-      </SOURCES>
-    </library>
-    <library name="rubocop (v0.48.1, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.48.1/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.48.1/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.48.1/assets" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.48.1/config" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.48.1/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.48.1/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.48.1/assets" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.48.1/config" />
       </SOURCES>
     </library>
     <library name="ruby-ole (v1.2.12.1, Remote:ruby-2.3.5-p376 (1)) [gem]">
