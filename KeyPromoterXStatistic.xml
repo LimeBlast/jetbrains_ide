@@ -30,7 +30,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -113,14 +113,6 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Revert...">
-        <Item>
-          <IdeaActionID>ChangesView.Revert</IdeaActionID>
-          <ShortCut>'⌥⌘Z'</ShortCut>
-          <Description>Revert...</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Run Rails Generator...">
         <Item>
           <IdeaActionID>org.jetbrains.plugins.ruby.rails.actions.generators.GeneratorsPopupAction</IdeaActionID>
@@ -169,6 +161,14 @@
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Revert...">
+        <Item>
+          <IdeaActionID>ChangesView.Revert</IdeaActionID>
+          <ShortCut>'⌥⌘Z'</ShortCut>
+          <Description>Revert...</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
