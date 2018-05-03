@@ -642,6 +642,7 @@
     </library>
     <library name="appsignal (v2.1.0, ruby-2.0.0-p643) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/appsignal/2.1.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/appsignal-2.1.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/appsignal-2.1.0/resources" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/appsignal-2.1.0/gemfiles" />
@@ -649,6 +650,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/appsignal-2.1.0/bin" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/appsignal/2.1.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/appsignal-2.1.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/appsignal-2.1.0/resources" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/appsignal-2.1.0/gemfiles" />
@@ -996,10 +998,12 @@
     </library>
     <library name="bcrypt-ruby (v3.1.2, ruby-2.0.0-p643) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/bcrypt-ruby/3.1.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bcrypt-ruby-3.1.2/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bcrypt-ruby-3.1.2/ext" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/bcrypt-ruby/3.1.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bcrypt-ruby-3.1.2/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bcrypt-ruby-3.1.2/ext" />
       </SOURCES>
@@ -3200,12 +3204,14 @@
     </library>
     <library name="ffi (v1.9.3, ruby-2.0.0-p643) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/ffi/1.9.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/ffi-1.9.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/ffi-1.9.3/libtest" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/ffi-1.9.3/gen" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/ffi-1.9.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/ffi/1.9.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/ffi-1.9.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/ffi-1.9.3/libtest" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/ffi-1.9.3/gen" />
@@ -3932,12 +3938,14 @@
     </library>
     <library name="http_parser.rb (v0.6.0, ruby-2.0.0-p643) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/http_parser.rb-0.6.0/bench" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/http_parser.rb-0.6.0/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/http_parser.rb-0.6.0/bench" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/http_parser.rb-0.6.0/lib" />
@@ -4404,6 +4412,7 @@
     </library>
     <library name="json (v1.8.1, ruby-2.0.0-p643) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/json/1.8.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/json-1.8.1/data" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/json-1.8.1/tools" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/json-1.8.1/ext" />
@@ -4413,6 +4422,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/json-1.8.1/java" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/json/1.8.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/json-1.8.1/data" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/json-1.8.1/tools" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/json-1.8.1/ext" />
@@ -4608,10 +4618,12 @@
     </library>
     <library name="kgio (v2.8.1, ruby-2.0.0-p643) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/kgio/2.8.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/kgio-2.8.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/kgio-2.8.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/kgio/2.8.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/kgio-2.8.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/kgio-2.8.1/lib" />
       </SOURCES>
@@ -5156,12 +5168,14 @@
     </library>
     <library name="msgpack (v1.2.4, ruby-2.0.0-p643) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/msgpack/1.2.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/msgpack-1.2.4/doclib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/msgpack-1.2.4/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/msgpack-1.2.4/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/msgpack-1.2.4/bench" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/msgpack/1.2.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/msgpack-1.2.4/doclib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/msgpack-1.2.4/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/msgpack-1.2.4/ext" />
@@ -5790,11 +5804,13 @@
     </library>
     <library name="pg (v0.17.1, ruby-2.0.0-p643) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/pg/0.17.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/pg-0.17.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/pg-0.17.1/sample" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/pg-0.17.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/pg/0.17.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/pg-0.17.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/pg-0.17.1/sample" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/pg-0.17.1/lib" />
@@ -6898,10 +6914,12 @@
     </library>
     <library name="raindrops (v0.12.0, ruby-2.0.0-p643) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/raindrops/0.12.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/raindrops-0.12.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/raindrops-0.12.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/raindrops/0.12.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/raindrops-0.12.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/raindrops-0.12.0/lib" />
       </SOURCES>
@@ -7120,11 +7138,13 @@
     </library>
     <library name="rb-fsevent (v0.9.4, ruby-2.0.0-p643) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/rb-fsevent/0.9.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/rb-fsevent-0.9.4/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/rb-fsevent-0.9.4/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/rb-fsevent-0.9.4/bin" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/rb-fsevent/0.9.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/rb-fsevent-0.9.4/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/rb-fsevent-0.9.4/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/rb-fsevent-0.9.4/bin" />
@@ -9584,6 +9604,7 @@
     </library>
     <library name="unicorn (v4.8.0, ruby-2.0.0-p643) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/unicorn/4.8.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/unicorn-4.8.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/unicorn-4.8.0/t" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/unicorn-4.8.0/ext" />
@@ -9593,6 +9614,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/unicorn-4.8.0/script" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/unicorn/4.8.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/unicorn-4.8.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/unicorn-4.8.0/t" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/unicorn-4.8.0/ext" />
