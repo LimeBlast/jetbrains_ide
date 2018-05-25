@@ -1,0 +1,10 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="end-&gt;delete">
+      <action id="EditorLineEnd" />
+      <action id="EditorDelete" />
+      <action id="EditorLineEnd" />
+      <action id="EditorDelete" />
+    </macro>
+  </component>
+</application>
