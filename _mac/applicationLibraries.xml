@@ -1120,6 +1120,16 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.5/lib/ruby/gems/2.3.0/gems/concurrent-ruby-1.0.5/lib" />
       </SOURCES>
     </library>
+    <library name="cookie_alert (v0.0.5, ruby-2.0.0-p643) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.0.0-p643/lib/ruby/gems/2.0.0/gems/cookie_alert-0.0.5/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.0.0-p643/lib/ruby/gems/2.0.0/gems/cookie_alert-0.0.5/app" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.0.0-p643/lib/ruby/gems/2.0.0/gems/cookie_alert-0.0.5/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.0.0-p643/lib/ruby/gems/2.0.0/gems/cookie_alert-0.0.5/app" />
+      </SOURCES>
+    </library>
     <library name="counter_culture (v0.2.3, ruby-2.3.3-p222) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/counter_culture-0.2.3/lib" />
