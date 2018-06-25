@@ -8078,6 +8078,14 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1097839331/-2083698379/gems/sdoc-0.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="seed-fu (v2.3.4, Remote:ruby-2.3.5-p376 (1)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1792542999/-2083698379/gems/seed-fu-2.3.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1792542999/-2083698379/gems/seed-fu-2.3.4/lib" />
+      </SOURCES>
+    </library>
     <library name="seed-fu (v2.3.5, Remote:ruby-2.3.5-p376) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1097839331/-2083698379/gems/seed-fu-2.3.5/lib" />
