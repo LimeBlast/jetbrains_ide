@@ -540,7 +540,7 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="bigdecimal (v1.3.4, ruby-2.5.1-p57) [gem]">
+    <library name="bigdecimal (v1.3.4, ruby-2.5.1-p57) [gem]" type="ruby">
       <CLASSES />
       <SOURCES />
     </library>
@@ -918,7 +918,7 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1792542999/-2083698379/gems/cliver-0.3.2/.githooks" />
       </excluded>
     </library>
-    <library name="cmath (v1.0.0, ruby-2.5.1-p57) [gem]">
+    <library name="cmath (v1.0.0, ruby-2.5.1-p57) [gem]" type="ruby">
       <CLASSES />
       <SOURCES />
     </library>
@@ -1069,7 +1069,7 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/crack-0.4.3/script" />
       </SOURCES>
     </library>
-    <library name="csv (v1.0.0, ruby-2.5.1-p57) [gem]">
+    <library name="csv (v1.0.0, ruby-2.5.1-p57) [gem]" type="ruby">
       <CLASSES />
       <SOURCES />
     </library>
@@ -1110,7 +1110,7 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1792542999/-2083698379/gems/database_cleaner-1.6.1/features" />
       </excluded>
     </library>
-    <library name="date (v1.0.0, ruby-2.5.1-p57) [gem]">
+    <library name="date (v1.0.0, ruby-2.5.1-p57) [gem]" type="ruby">
       <CLASSES />
       <SOURCES />
     </library>
@@ -1124,7 +1124,7 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/date_validator-0.9.0/locales" />
       </SOURCES>
     </library>
-    <library name="dbm (v1.0.0, ruby-2.5.1-p57) [gem]">
+    <library name="dbm (v1.0.0, ruby-2.5.1-p57) [gem]" type="ruby">
       <CLASSES />
       <SOURCES />
     </library>
@@ -1305,13 +1305,27 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/did_you_mean-1.1.0/lib" />
       </SOURCES>
     </library>
-    <library name="did_you_mean (v1.2.0, ruby-2.5.1-p57) [gem]">
+    <library name="did_you_mean (v1.2.0, ruby-2.5.1-p57) [gem]" type="ruby">
       <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/doc" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/test" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/benchmark" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/evaluation" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/doc" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/test" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/benchmark" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/evaluation" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/doc" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/test" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/benchmark" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/evaluation" />
+      </excluded>
     </library>
     <library name="diff-lcs (v1.2.5, ruby-2.3.3-p222) [gem]">
       <CLASSES>
@@ -1598,7 +1612,7 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/erubis-2.7.0/lib" />
       </SOURCES>
     </library>
-    <library name="etc (v1.0.0, ruby-2.5.1-p57) [gem]">
+    <library name="etc (v1.0.0, ruby-2.5.1-p57) [gem]" type="ruby">
       <CLASSES />
       <SOURCES />
     </library>
@@ -1731,7 +1745,7 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1792542999/-2083698379/gems/faraday-0.12.1/lib" />
       </SOURCES>
     </library>
-    <library name="fcntl (v1.0.0, ruby-2.5.1-p57) [gem]">
+    <library name="fcntl (v1.0.0, ruby-2.5.1-p57) [gem]" type="ruby">
       <CLASSES />
       <SOURCES />
     </library>
@@ -1773,11 +1787,11 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/ffi-1.9.18/lib" />
       </SOURCES>
     </library>
-    <library name="fiddle (v1.0.0, ruby-2.5.1-p57) [gem]">
+    <library name="fiddle (v1.0.0, ruby-2.5.1-p57) [gem]" type="ruby">
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="fileutils (v1.0.2, ruby-2.5.1-p57) [gem]">
+    <library name="fileutils (v1.0.2, ruby-2.5.1-p57) [gem]" type="ruby">
       <CLASSES />
       <SOURCES />
     </library>
@@ -1877,7 +1891,7 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/friendly_id-5.2.0/gemfiles" />
       </SOURCES>
     </library>
-    <library name="gdbm (v2.0.0, ruby-2.5.1-p57) [gem]">
+    <library name="gdbm (v2.0.0, ruby-2.5.1-p57) [gem]" type="ruby">
       <CLASSES />
       <SOURCES />
     </library>
@@ -2322,11 +2336,11 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="io-console (v0.4.6, ruby-2.5.1-p57) [gem]">
+    <library name="io-console (v0.4.6, ruby-2.5.1-p57) [gem]" type="ruby">
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="ipaddr (v1.2.0, ruby-2.5.1-p57) [gem]">
+    <library name="ipaddr (v1.2.0, ruby-2.5.1-p57) [gem]" type="ruby">
       <CLASSES />
       <SOURCES />
     </library>
@@ -2489,9 +2503,16 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="json (v2.1.0, ruby-2.5.1-p57) [gem]">
-      <CLASSES />
-      <SOURCES />
+    <library name="json (v2.1.0, ruby-2.5.1-p57) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/json/add" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/json/add" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/json/add" />
+      </excluded>
     </library>
     <library name="kaminari (v0.17.0, ruby-2.3.3-p222) [gem]">
       <CLASSES>
@@ -2809,13 +2830,18 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.5/lib/ruby/gems/2.3.0/gems/minitest-5.10.3/lib" />
       </SOURCES>
     </library>
-    <library name="minitest (v5.10.3, ruby-2.5.1-p57) [gem]">
+    <library name="minitest (v5.10.3, ruby-2.5.1-p57) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/test" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/test" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/test" />
+      </excluded>
     </library>
     <library name="minitest (v5.8.3, ruby-2.3.1-p112) [gem]">
       <CLASSES>
@@ -2989,13 +3015,18 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/net-telnet-0.1.1/lib" />
       </SOURCES>
     </library>
-    <library name="net-telnet (v0.1.1, ruby-2.5.1-p57) [gem]">
+    <library name="net-telnet (v0.1.1, ruby-2.5.1-p57) [gem]" type="ruby">
       <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/bin" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/bin" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/lib" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/bin" />
+      </excluded>
     </library>
     <library name="nio4r (v1.2.1, ruby-2.3.3-p222) [gem]">
       <CLASSES>
@@ -3124,7 +3155,7 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="openssl (v2.1.0, ruby-2.5.1-p57) [gem]">
+    <library name="openssl (v2.1.0, ruby-2.5.1-p57) [gem]" type="ruby">
       <CLASSES />
       <SOURCES />
     </library>
@@ -3330,13 +3361,18 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/power_assert-0.4.1/lib" />
       </SOURCES>
     </library>
-    <library name="power_assert (v1.1.1, ruby-2.5.1-p57) [gem]">
+    <library name="power_assert (v1.1.1, ruby-2.5.1-p57) [gem]" type="ruby">
       <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/bin" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/bin" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/lib" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/bin" />
+      </excluded>
     </library>
     <library name="powerpack (v0.1.1, ruby-2.0.0-p643) [gem]">
       <CLASSES>
@@ -3542,9 +3578,25 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="psych (v3.0.2, ruby-2.5.1-p57) [gem]">
-      <CLASSES />
-      <SOURCES />
+    <library name="psych (v3.0.2, ruby-2.5.1-p57) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/psych/json" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/psych/visitors" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/psych/json" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/psych/visitors" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/psych/json" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/psych/visitors" />
+      </excluded>
     </library>
     <library name="public_suffix (v2.0.4, ruby-2.3.3-p222) [gem]">
       <CLASSES>
@@ -4060,13 +4112,24 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/rake-12.3.0/lib" />
       </SOURCES>
     </library>
-    <library name="rake (v12.3.0, ruby-2.5.1-p57) [gem]">
+    <library name="rake (v12.3.0, ruby-2.5.1-p57) [gem]" type="ruby">
       <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/bin" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/doc" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/exe" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/bin" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/doc" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/exe" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/lib" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/bin" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/doc" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/exe" />
+      </excluded>
     </library>
     <library name="ransack (v1.8.2, ruby-2.3.3-p222) [gem]">
       <CLASSES>
@@ -4178,9 +4241,40 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="rdoc (v6.0.1, ruby-2.5.1-p57) [gem]">
-      <CLASSES />
-      <SOURCES />
+    <library name="rdoc (v6.0.1, ruby-2.5.1-p57) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/generator" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/generator" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/generator" />
+      </excluded>
     </library>
     <library name="recipient_interceptor (v0.1.2, ruby-2.3.3-p222) [gem]">
       <CLASSES>
@@ -4598,7 +4692,7 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/sass-rails-5.0.6/lib" />
       </SOURCES>
     </library>
-    <library name="scanf (v1.0.0, ruby-2.5.1-p57) [gem]">
+    <library name="scanf (v1.0.0, ruby-2.5.1-p57) [gem]" type="ruby">
       <CLASSES />
       <SOURCES />
     </library>
@@ -4618,7 +4712,7 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1792542999/-2083698379/gems/schema_plus-1.8.9/gemfiles" />
       </excluded>
     </library>
-    <library name="sdbm (v1.0.0, ruby-2.5.1-p57) [gem]">
+    <library name="sdbm (v1.0.0, ruby-2.5.1-p57) [gem]" type="ruby">
       <CLASSES />
       <SOURCES />
     </library>
@@ -5016,11 +5110,11 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/state_machines_rspec-0.3.2/lib" />
       </SOURCES>
     </library>
-    <library name="stringio (v0.0.1, ruby-2.5.1-p57) [gem]">
+    <library name="stringio (v0.0.1, ruby-2.5.1-p57) [gem]" type="ruby">
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="strscan (v1.0.0, ruby-2.5.1-p57) [gem]">
+    <library name="strscan (v1.0.0, ruby-2.5.1-p57) [gem]" type="ruby">
       <CLASSES />
       <SOURCES />
     </library>
@@ -5109,13 +5203,24 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/test-unit-3.2.3/lib" />
       </SOURCES>
     </library>
-    <library name="test-unit (v3.2.7, ruby-2.5.1-p57) [gem]">
+    <library name="test-unit (v3.2.7, ruby-2.5.1-p57) [gem]" type="ruby">
       <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/doc" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/test" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/sample" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/doc" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/test" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/sample" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/doc" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/test" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/sample" />
+      </excluded>
     </library>
     <library name="thin (v1.5.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
@@ -5574,9 +5679,19 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1792542999/-2083698379/gems/webmock-3.0.1/minitest" />
       </excluded>
     </library>
-    <library name="webrick (v1.4.2, ruby-2.5.1-p57) [gem]">
-      <CLASSES />
-      <SOURCES />
+    <library name="webrick (v1.4.2, ruby-2.5.1-p57) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/webrick/httpauth" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/webrick/httpservlet" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/webrick/httpauth" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/webrick/httpservlet" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/webrick/httpauth" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/webrick/httpservlet" />
+      </excluded>
     </library>
     <library name="websocket-driver (v0.6.4, ruby-2.3.3-p222) [gem]">
       <CLASSES>
@@ -5700,13 +5815,18 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/xmlrpc-0.2.1/lib" />
       </SOURCES>
     </library>
-    <library name="xmlrpc (v0.3.0, ruby-2.5.1-p57) [gem]">
+    <library name="xmlrpc (v0.3.0, ruby-2.5.1-p57) [gem]" type="ruby">
       <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/bin" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/bin" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/lib" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/bin" />
+      </excluded>
     </library>
     <library name="xpath (v2.0.0, ruby-2.3.3-p222) [gem]">
       <CLASSES>
@@ -5737,7 +5857,7 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.5/lib/ruby/gems/2.3.0/gems/xpath-2.1.0/lib" />
       </SOURCES>
     </library>
-    <library name="zlib (v1.0.0, ruby-2.5.1-p57) [gem]">
+    <library name="zlib (v1.0.0, ruby-2.5.1-p57) [gem]" type="ruby">
       <CLASSES />
       <SOURCES />
     </library>
