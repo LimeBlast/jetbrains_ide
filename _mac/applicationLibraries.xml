@@ -9638,6 +9638,22 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1792542999/-2083698379/gems/i18n-0.9.1/gemfiles" />
       </excluded>
     </library>
+    <library name="i18n (v0.9.5, ruby-2.3.7-p456) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/i18n-0.9.5/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/i18n-0.9.5/test" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/i18n-0.9.5/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/i18n-0.9.5/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/i18n-0.9.5/test" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/i18n-0.9.5/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/i18n-0.9.5/test" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/i18n-0.9.5/gemfiles" />
+      </excluded>
+    </library>
     <library name="i18n (v1.0.0, ruby-2.5.1-p57) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/i18n-1.0.0/lib" />
@@ -10255,6 +10271,34 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.5/lib/ruby/gems/2.3.0/gems/json-1.8.6/tests" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.5/lib/ruby/gems/2.3.0/gems/json-1.8.6/tools" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.5/lib/ruby/gems/2.3.0/gems/json-1.8.6/diagrams" />
+      </excluded>
+    </library>
+    <library name="json (v1.8.6, ruby-2.3.7-p456) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/json-1.8.6/ext" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/json-1.8.6/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/json-1.8.6/data" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/json-1.8.6/java" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/json-1.8.6/tests" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/json-1.8.6/tools" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/json-1.8.6/diagrams" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/json-1.8.6/ext" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/json-1.8.6/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/json-1.8.6/data" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/json-1.8.6/java" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/json-1.8.6/tests" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/json-1.8.6/tools" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/json-1.8.6/diagrams" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/json-1.8.6/ext" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/json-1.8.6/data" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/json-1.8.6/java" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/json-1.8.6/tests" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/json-1.8.6/tools" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/json-1.8.6/diagrams" />
       </excluded>
     </library>
     <library name="json (v1.8.6, ruby-2.4.2-p198) [gem]" type="ruby">
@@ -11978,6 +12022,19 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/test" />
+      </excluded>
+    </library>
+    <library name="minitest (v5.11.3, ruby-2.3.7-p456) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/minitest-5.11.3/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/minitest-5.11.3/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/minitest-5.11.3/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/minitest-5.11.3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/minitest-5.11.3/test" />
       </excluded>
     </library>
     <library name="minitest (v5.11.3, ruby-2.4.2-p198) [gem]" type="ruby">
@@ -20626,6 +20683,19 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.5/lib/ruby/gems/2.3.0/gems/sprockets-2.2.3/bin" />
       </excluded>
     </library>
+    <library name="sprockets (v3.5.2, ruby-2.3.7-p456) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/sprockets-3.5.2/bin" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/sprockets-3.5.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/sprockets-3.5.2/bin" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/sprockets-3.5.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/sprockets-3.5.2/bin" />
+      </excluded>
+    </library>
     <library name="sprockets (v3.7.1, Remote:ruby-2.3.5-p376) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1097839331/-2083698379/gems/sprockets-3.7.1/bin" />
@@ -21523,6 +21593,31 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.5/lib/ruby/gems/2.3.0/gems/thread_safe-0.3.6/yard-template" />
       </excluded>
     </library>
+    <library name="thread_safe (v0.3.6, ruby-2.3.7-p456) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/thread_safe-0.3.6/ext" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/thread_safe-0.3.6/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/thread_safe-0.3.6/spec" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/thread_safe-0.3.6/tasks" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/thread_safe-0.3.6/examples" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/thread_safe-0.3.6/yard-template" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/thread_safe-0.3.6/ext" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/thread_safe-0.3.6/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/thread_safe-0.3.6/spec" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/thread_safe-0.3.6/tasks" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/thread_safe-0.3.6/examples" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/thread_safe-0.3.6/yard-template" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/thread_safe-0.3.6/ext" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/thread_safe-0.3.6/spec" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/thread_safe-0.3.6/tasks" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/thread_safe-0.3.6/examples" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/thread_safe-0.3.6/yard-template" />
+      </excluded>
+    </library>
     <library name="thread_safe (v0.3.6, ruby-2.4.2-p198) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/thread_safe-0.3.6/ext" />
@@ -22263,6 +22358,19 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/tzinfo-1.2.4/test" />
+      </excluded>
+    </library>
+    <library name="tzinfo (v1.2.5, ruby-2.3.7-p456) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/tzinfo-1.2.5/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/tzinfo-1.2.5/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/tzinfo-1.2.5/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/tzinfo-1.2.5/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.3.7/lib/ruby/gems/2.3.0/gems/tzinfo-1.2.5/test" />
       </excluded>
     </library>
     <library name="tzinfo (v1.2.5, ruby-2.5.1-p57) [gem]" type="ruby">
