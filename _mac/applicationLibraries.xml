@@ -1827,7 +1827,6 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/appsignal/2.6.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/appsignal-2.6.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/appsignal-2.6.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/appsignal-2.6.1/lib" />
@@ -1836,7 +1835,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/appsignal-2.6.1/resources" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/appsignal/2.6.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/appsignal-2.6.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/appsignal-2.6.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/appsignal-2.6.1/lib" />
@@ -2831,13 +2829,11 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/bcrypt-3.1.11/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/bcrypt-3.1.11/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/bcrypt-3.1.11/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/bcrypt-3.1.11/spec" />
@@ -4305,13 +4301,11 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/byebug/5.0.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/byebug-5.0.0/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/byebug-5.0.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/byebug-5.0.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/byebug/5.0.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/byebug-5.0.0/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/byebug-5.0.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/byebug-5.0.0/lib" />
@@ -4950,14 +4944,12 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/charlock_holmes/0.7.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/charlock_holmes-0.7.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/charlock_holmes-0.7.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/charlock_holmes-0.7.3/test" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/charlock_holmes-0.7.3/benchmark" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/charlock_holmes/0.7.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/charlock_holmes-0.7.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/charlock_holmes-0.7.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/charlock_holmes-0.7.3/test" />
@@ -6935,25 +6927,6 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/debase-0.2.1/test" />
       </excluded>
     </library>
-    <library name="debase (v0.2.2, chruby: ruby-2.3.7) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="2" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/debase-0.2.2/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/debase-0.2.2/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/debase-0.2.2/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/debase-0.2.2/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/debase-0.2.2/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/debase-0.2.2/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/debase-0.2.2/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/debase-0.2.2/test" />
-      </excluded>
-    </library>
     <library name="debase (v0.2.2.beta10, chruby: ruby-2.3.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -6971,25 +6944,6 @@
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/debase-0.2.2.beta10/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/debase-0.2.2.beta10/test" />
-      </excluded>
-    </library>
-    <library name="debase (v0.2.2.beta10, chruby: ruby-2.3.7) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="2" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/debase-0.2.2.beta10/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/debase-0.2.2.beta10/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/debase-0.2.2.beta10/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/debase-0.2.2.beta10/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/debase-0.2.2.beta10/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/debase-0.2.2.beta10/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/debase-0.2.2.beta10/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/debase-0.2.2.beta10/test" />
       </excluded>
     </library>
     <library name="debase (v0.2.2.beta10, chruby: ruby-2.4.0) [gem]" type="rubylib">
@@ -7123,25 +7077,6 @@
       <excluded>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1973484383/-1748718285/gems/debase-0.2.2.beta11/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.1/ruby_stubs/1973484383/-1748718285/gems/debase-0.2.2.beta11/test" />
-      </excluded>
-    </library>
-    <library name="debase (v0.2.2.beta9, chruby: ruby-2.3.7) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="2" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/debase-0.2.2.beta9/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/debase-0.2.2.beta9/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/debase-0.2.2.beta9/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/debase-0.2.2.beta9/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/debase-0.2.2.beta9/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/debase-0.2.2.beta9/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/debase-0.2.2.beta9/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/debase-0.2.2.beta9/test" />
       </excluded>
     </library>
     <library name="debase (v0.2.2.beta9, ruby-2.0.0-p648) [gem]" type="rubylib">
@@ -15709,7 +15644,6 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/1.8.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/json-1.8.6/data" />
@@ -15719,7 +15653,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/json-1.8.6/diagrams" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/1.8.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/json-1.8.6/data" />
@@ -18551,7 +18484,6 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/msgpack/1.2.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/msgpack-1.2.4/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/msgpack-1.2.4/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/msgpack-1.2.4/spec" />
@@ -18559,7 +18491,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/msgpack-1.2.4/doclib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/msgpack/1.2.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/msgpack-1.2.4/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/msgpack-1.2.4/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/msgpack-1.2.4/spec" />
@@ -19729,7 +19660,6 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.6.7.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/nokogiri-1.6.7.2/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/nokogiri-1.6.7.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/nokogiri-1.6.7.2/lib" />
@@ -19739,7 +19669,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/nokogiri-1.6.7.2/suppressions" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.6.7.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/nokogiri-1.6.7.2/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/nokogiri-1.6.7.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/nokogiri-1.6.7.2/lib" />
