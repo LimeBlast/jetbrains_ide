@@ -4234,6 +4234,25 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/bundler-1.16.3/man" />
       </excluded>
     </library>
+    <library name="bundler (v1.16.4, chruby: ruby-2.3.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/bundler-1.16.4/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/bundler-1.16.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/bundler-1.16.4/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/bundler-1.16.4/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/bundler-1.16.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/bundler-1.16.4/man" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/bundler-1.16.4/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/bundler-1.16.4/man" />
+      </excluded>
+    </library>
     <library name="bundler-audit (v0.5.0, ruby-2.3.3-p222) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
