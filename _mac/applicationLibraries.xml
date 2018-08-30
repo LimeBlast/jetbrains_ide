@@ -4741,6 +4741,25 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/bundler-1.16.4/man" />
       </excluded>
     </library>
+    <library name="bundler (v1.16.4, chruby: ruby-2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/bundler-1.16.4/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/bundler-1.16.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/bundler-1.16.4/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/bundler-1.16.4/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/bundler-1.16.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/bundler-1.16.4/man" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/bundler-1.16.4/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/bundler-1.16.4/man" />
+      </excluded>
+    </library>
     <library name="bundler-audit (v0.5.0, ruby-2.3.3-p222) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -5057,6 +5076,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/capybara-2.4.4/spec" />
+      </excluded>
+    </library>
+    <library name="capybara (v3.6.0, chruby: ruby-2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/capybara-3.6.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/capybara-3.6.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/capybara-3.6.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/capybara-3.6.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/capybara-3.6.0/spec" />
       </excluded>
     </library>
     <library name="capybara-bootstrap-datepicker (v0.1.1@5033c9, chruby: ruby-2.3.5) [gem]" type="rubylib">
@@ -9055,6 +9090,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/factory_bot-4.10.0/gemfiles" />
       </excluded>
     </library>
+    <library name="factory_bot (v4.11.0, chruby: ruby-2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/factory_bot-4.11.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/factory_bot-4.11.0/lib" />
+      </SOURCES>
+    </library>
     <library name="factory_bot_rails (v4.10.0, chruby: ruby-2.3.7) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -9075,6 +9121,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/factory_bot_rails-4.10.0/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/factory_bot_rails-4.10.0/gemfiles" />
       </excluded>
+    </library>
+    <library name="factory_bot_rails (v4.11.0, chruby: ruby-2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/factory_bot_rails-4.11.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/factory_bot_rails-4.11.0/lib" />
+      </SOURCES>
     </library>
     <library name="factory_girl (v2.6.4, chruby: ruby-2.3.5) [gem]" type="rubylib">
       <properties>
@@ -28164,6 +28221,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.5/lib/ruby/gems/2.3.0/gems/xpath-2.1.0/spec" />
+      </excluded>
+    </library>
+    <library name="xpath (v3.1.0, chruby: ruby-2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/xpath-3.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/xpath-3.1.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/xpath-3.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/xpath-3.1.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/xpath-3.1.0/spec" />
       </excluded>
     </library>
     <library name="zlib (v1.0.0, chruby: ruby-2.5.1) [gem]" type="rubylib">
