@@ -17056,6 +17056,25 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/linkedin-oauth2-1.0.0/spec" />
       </excluded>
     </library>
+    <library name="linkedin-oauth2 (v1.0.0@ceb634, chruby: ruby-2.0.0-p643) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/bundler/gems/linkedin-oauth2-ceb63460b8b4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/bundler/gems/linkedin-oauth2-ceb63460b8b4/.git" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/bundler/gems/linkedin-oauth2-ceb63460b8b4/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/bundler/gems/linkedin-oauth2-ceb63460b8b4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/bundler/gems/linkedin-oauth2-ceb63460b8b4/.git" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/bundler/gems/linkedin-oauth2-ceb63460b8b4/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/bundler/gems/linkedin-oauth2-ceb63460b8b4/.git" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/bundler/gems/linkedin-oauth2-ceb63460b8b4/spec" />
+      </excluded>
+    </library>
     <library name="listen (v0.5.3, chruby: ruby-1.9.3-p551) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
