@@ -14187,6 +14187,22 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1792542999/-2083698379/gems/hashery-2.1.2/test" />
       </excluded>
     </library>
+    <library name="hashie (v3.6.0, chruby: ruby-2.0.0-p643) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/hashie-3.6.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/hashie-3.6.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/hashie-3.6.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/hashie-3.6.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/hashie-3.6.0/spec" />
+      </excluded>
+    </library>
     <library name="heroku-api (v0.4.2, chruby: ruby-2.3.7) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -16436,6 +16452,22 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/json/add" />
       </excluded>
     </library>
+    <library name="jwt (v1.5.6, chruby: ruby-2.0.0-p643) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/jwt-1.5.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/jwt-1.5.6/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/jwt-1.5.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/jwt-1.5.6/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/jwt-1.5.6/spec" />
+      </excluded>
+    </library>
     <library name="jwt (v1.5.6, chruby: ruby-2.3.7) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -17006,6 +17038,22 @@
       </SOURCES>
       <excluded>
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/libxml-ruby-2.9.0/ext" />
+      </excluded>
+    </library>
+    <library name="linkedin-oauth2 (v1.0.0, chruby: ruby-2.0.0-p643) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/linkedin-oauth2-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/linkedin-oauth2-1.0.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/linkedin-oauth2-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/linkedin-oauth2-1.0.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/linkedin-oauth2-1.0.0/spec" />
       </excluded>
     </library>
     <library name="listen (v0.5.3, chruby: ruby-1.9.3-p551) [gem]" type="rubylib">
@@ -19205,6 +19253,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/multi_xml-0.5.5/spec" />
       </excluded>
     </library>
+    <library name="multi_xml (v0.6.0, chruby: ruby-2.0.0-p643) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/multi_xml-0.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/multi_xml-0.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="multipart-post (v2.0.0, chruby: ruby-2.0.0-p643) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -20648,6 +20707,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/oauth-0.4.7/tasks" />
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/oauth-0.4.7/examples" />
       </excluded>
+    </library>
+    <library name="oauth2 (v1.4.0, chruby: ruby-2.0.0-p643) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/oauth2-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/oauth2-1.4.0/lib" />
+      </SOURCES>
     </library>
     <library name="openssl (v2.0.5, chruby: ruby-2.4.2) [gem]" type="rubylib">
       <properties>
