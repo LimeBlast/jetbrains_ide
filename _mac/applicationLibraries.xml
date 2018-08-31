@@ -11377,6 +11377,41 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/guard-livereload-2.5.2/.hound" />
       </excluded>
     </library>
+    <library name="guard-rails (v0.8.1, chruby: ruby-2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/guard-rails-0.8.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/guard-rails-0.8.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/guard-rails-0.8.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/guard-rails-0.8.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/guard-rails-0.8.1/spec" />
+      </excluded>
+    </library>
+    <library name="guard-rspec (v4.7.3, chruby: ruby-2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/guard-rspec-4.7.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/guard-rspec-4.7.3/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/guard-rspec-4.7.3/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/guard-rspec-4.7.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/guard-rspec-4.7.3/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/guard-rspec-4.7.3/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/guard-rspec-4.7.3/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/guard-rspec-4.7.3/gemfiles" />
+      </excluded>
+    </library>
     <library name="guard-rspec (v4.7.3, ruby-2.3.3-p222) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -17107,6 +17142,28 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/nyan-cat-formatter-0.12.0/gemfiles" />
       </excluded>
     </library>
+    <library name="nyan-cat-formatter (v0.12.0, chruby: ruby-2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/nyan-cat-formatter-0.12.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/nyan-cat-formatter-0.12.0/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/nyan-cat-formatter-0.12.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/nyan-cat-formatter-0.12.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/nyan-cat-formatter-0.12.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/nyan-cat-formatter-0.12.0/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/nyan-cat-formatter-0.12.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/nyan-cat-formatter-0.12.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/nyan-cat-formatter-0.12.0/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/nyan-cat-formatter-0.12.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/nyan-cat-formatter-0.12.0/gemfiles" />
+      </excluded>
+    </library>
     <library name="nyan-cat-formatter (v0.12.0, Remote:ruby-2.3.5-p376 (1)) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -22394,6 +22451,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1792542999/-2083698379/gems/rspec-3.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec (v3.8.0, chruby: ruby-2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/rspec-3.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/rspec-3.8.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-activemodel-mocks (v1.0.3, chruby: ruby-2.3.5) [gem]" type="rubylib">
