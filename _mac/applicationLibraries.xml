@@ -26608,6 +26608,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/recaptcha-4.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="recaptcha (v4.11.1, chruby: ruby-2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/recaptcha-4.11.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/recaptcha-4.11.1/lib" />
+      </SOURCES>
+    </library>
     <library name="recipient_interceptor (v0.1.2, ruby-2.3.3-p222) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
