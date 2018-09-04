@@ -26361,6 +26361,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/rack-protection-2.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="rack-proxy (v0.6.4, chruby: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rack-proxy-0.6.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rack-proxy-0.6.4/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rack-proxy-0.6.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rack-proxy-0.6.4/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rack-proxy-0.6.4/test" />
+      </excluded>
+    </library>
     <library name="rack-ssl (v1.3.4, chruby: ruby-1.9.3-p551) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -38028,6 +38044,31 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/webmock-3.4.2/spec" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/webmock-3.4.2/test" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/webmock-3.4.2/minitest" />
+      </excluded>
+    </library>
+    <library name="webpacker (v3.5.5, chruby: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/webpacker-3.5.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/webpacker-3.5.5/docs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/webpacker-3.5.5/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/webpacker-3.5.5/package" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/webpacker-3.5.5/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/webpacker-3.5.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/webpacker-3.5.5/docs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/webpacker-3.5.5/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/webpacker-3.5.5/package" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/webpacker-3.5.5/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/webpacker-3.5.5/docs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/webpacker-3.5.5/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/webpacker-3.5.5/package" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/webpacker-3.5.5/gemfiles" />
       </excluded>
     </library>
     <library name="webrick (v1.4.2, chruby: ruby-2.5.1) [gem]" type="rubylib">
