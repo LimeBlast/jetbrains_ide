@@ -6638,6 +6638,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/capybara-3.6.0/spec" />
       </excluded>
     </library>
+    <library name="capybara (v3.7.0, chruby: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/capybara-3.7.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/capybara-3.7.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/capybara-3.7.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/capybara-3.7.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/capybara-3.7.0/spec" />
+      </excluded>
+    </library>
     <library name="capybara-bootstrap-datepicker (v0.1.1@5033c9, chruby: ruby-2.3.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -19213,6 +19229,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/lumberjack-1.0.12/spec" />
+      </excluded>
+    </library>
+    <library name="lumberjack (v1.0.13, chruby: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/lumberjack-1.0.13/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/lumberjack-1.0.13/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/lumberjack-1.0.13/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/lumberjack-1.0.13/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/lumberjack-1.0.13/spec" />
       </excluded>
     </library>
     <library name="lumberjack (v1.0.2, chruby: ruby-1.9.3-p551) [gem]" type="rubylib">
@@ -37787,6 +37819,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/web-console-3.6.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="web-console (v3.7.0, chruby: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/web-console-3.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/web-console-3.7.0/lib" />
       </SOURCES>
     </library>
     <library name="webmock (v1.21.0, chruby: ruby-2.3.5) [gem]" type="rubylib">
