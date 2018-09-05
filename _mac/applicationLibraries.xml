@@ -8852,6 +8852,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/database_cleaner-1.6.2/examples" />
       </excluded>
     </library>
+    <library name="database_cleaner (v1.7.0, chruby: ruby-2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/database_cleaner-1.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/database_cleaner-1.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="date (v1.0.0, chruby: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
