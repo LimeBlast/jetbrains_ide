@@ -6771,6 +6771,22 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/coderay-1.1.1/test" />
       </excluded>
     </library>
+    <library name="coderay (v1.1.2, chruby: ruby-2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/coderay-1.1.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/coderay-1.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/coderay-1.1.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/coderay-1.1.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/coderay-1.1.2/bin" />
+      </excluded>
+    </library>
     <library name="coercible (v1.0.0, chruby: ruby-2.0.0-p643) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -13380,6 +13396,28 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/guard-2.14.1/images" />
       </excluded>
     </library>
+    <library name="guard (v2.14.2, chruby: ruby-2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/guard-2.14.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/guard-2.14.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/guard-2.14.2/man" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/guard-2.14.2/images" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/guard-2.14.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/guard-2.14.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/guard-2.14.2/man" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/guard-2.14.2/images" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/guard-2.14.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/guard-2.14.2/man" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/guard-2.14.2/images" />
+      </excluded>
+    </library>
     <library name="guard (v2.3.0, chruby: ruby-2.0.0-p643) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -17452,6 +17490,22 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/lumberjack-1.0.11/spec" />
       </excluded>
     </library>
+    <library name="lumberjack (v1.0.13, chruby: ruby-2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/lumberjack-1.0.13/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/lumberjack-1.0.13/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/lumberjack-1.0.13/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/lumberjack-1.0.13/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/lumberjack-1.0.13/spec" />
+      </excluded>
+    </library>
     <library name="lumberjack (v1.0.2, chruby: ruby-1.9.3-p551) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -17898,6 +17952,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/method_source-0.9.0/spec" />
+      </excluded>
+    </library>
+    <library name="method_source (v0.9.0, chruby: ruby-2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/method_source-0.9.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/method_source-0.9.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/method_source-0.9.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/method_source-0.9.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/method_source-0.9.0/spec" />
       </excluded>
     </library>
     <library name="middleman (v3.3.5, chruby: ruby-2.5.1) [gem]" type="rubylib">
@@ -22449,6 +22519,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/pry-0.10.4/bin" />
+      </excluded>
+    </library>
+    <library name="pry (v0.11.3, chruby: ruby-2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/pry-0.11.3/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/pry-0.11.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/pry-0.11.3/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/pry-0.11.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/pry-0.11.3/bin" />
       </excluded>
     </library>
     <library name="pry (v0.9.10, chruby: ruby-1.9.3-p551) [gem]" type="rubylib">
@@ -27317,6 +27403,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1792542999/-2083698379/gems/rspec-3.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec (v3.7.0, chruby: ruby-2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/rspec-3.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/rspec-3.7.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec (v3.8.0, chruby: ruby-2.3.7) [gem]" type="rubylib">
