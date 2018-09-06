@@ -8,6 +8,11 @@
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
     <option name="HTML_TEXT_WRAP" value="0" />
   </HTMLCodeStyleSettings>
+  <Ruby>
+    <option name="INDENT_PRIVATE_METHODS" value="true" />
+    <option name="INDENT_PROTECTED_METHODS" value="true" />
+    <option name="INDENT_PUBLIC_METHODS" value="true" />
+  </Ruby>
   <codeStyleSettings language="HTML">
     <option name="WRAP_ON_TYPING" value="0" />
   </codeStyleSettings>
