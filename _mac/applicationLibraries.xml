@@ -35001,6 +35001,39 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.1.5/gems/yajl-ruby-1.2.1/benchmark" />
       </excluded>
     </library>
+    <library name="yajl-ruby (v1.4.1, chruby: ruby-2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/yajl-ruby/1.4.1" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/yajl-ruby-1.4.1/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/yajl-ruby-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/yajl-ruby-1.4.1/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/yajl-ruby-1.4.1/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/yajl-ruby-1.4.1/script" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/yajl-ruby-1.4.1/examples" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/yajl-ruby-1.4.1/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/yajl-ruby/1.4.1" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/yajl-ruby-1.4.1/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/yajl-ruby-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/yajl-ruby-1.4.1/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/yajl-ruby-1.4.1/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/yajl-ruby-1.4.1/script" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/yajl-ruby-1.4.1/examples" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/yajl-ruby-1.4.1/benchmark" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/yajl-ruby-1.4.1/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/yajl-ruby-1.4.1/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/yajl-ruby-1.4.1/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/yajl-ruby-1.4.1/script" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/yajl-ruby-1.4.1/examples" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/yajl-ruby-1.4.1/benchmark" />
+      </excluded>
+    </library>
     <library name="yaml_db (v0.6.0, chruby: ruby-2.0.0-p643) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
