@@ -13027,6 +13027,31 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1792542999/-2083698379/gems/foreman-0.84.0/spec" />
       </excluded>
     </library>
+    <library name="foreman (v0.85.0, chruby: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/foreman-0.85.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/foreman-0.85.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/foreman-0.85.0/man" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/foreman-0.85.0/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/foreman-0.85.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/foreman-0.85.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/foreman-0.85.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/foreman-0.85.0/man" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/foreman-0.85.0/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/foreman-0.85.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/foreman-0.85.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/foreman-0.85.0/man" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/foreman-0.85.0/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/foreman-0.85.0/spec" />
+      </excluded>
+    </library>
     <library name="formatador (v0.2.4, chruby: ruby-1.9.3-p551) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -34229,6 +34254,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/thor-0.19.4/bin" />
+      </excluded>
+    </library>
+    <library name="thor (v0.19.4, chruby: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/thor-0.19.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/thor-0.19.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/thor-0.19.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/thor-0.19.4/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/thor-0.19.4/bin" />
       </excluded>
     </library>
     <library name="thor (v0.19.4, Remote:ruby-2.3.5-p376 (1)) [gem]" type="rubylib">
