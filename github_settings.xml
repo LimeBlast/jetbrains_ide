@@ -1,5 +1,7 @@
 <application>
-  <component name="GithubSettings">
-    <option name="AUTH_TYPE" value="TOKEN" />
+  <component name="GithubAccounts">
+    <account id="aa06b7fb-30f5-4d47-97ae-db5e67c279a1" name="LimeBlast">
+      <server host="github.com" />
+    </account>
   </component>
 </application>
