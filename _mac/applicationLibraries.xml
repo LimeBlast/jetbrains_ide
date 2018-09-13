@@ -16936,6 +16936,19 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/jquery-rails-4.3.3/test" />
       </excluded>
     </library>
+    <library name="jquery-slick-rails (v1.9.0, chruby: ruby-2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/jquery-slick-rails-1.9.0/app" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/jquery-slick-rails-1.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/jquery-slick-rails-1.9.0/app" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/jquery-slick-rails-1.9.0/lib" />
+      </SOURCES>
+    </library>
     <library name="jquery-ui-rails (v4.2.1, chruby: ruby-2.0.0-p643) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
