@@ -1326,6 +1326,28 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/addressable-2.5.2/tasks" />
       </excluded>
     </library>
+    <library name="addressable (v2.5.2, chruby: ruby-2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/addressable-2.5.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/addressable-2.5.2/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/addressable-2.5.2/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/addressable-2.5.2/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/addressable-2.5.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/addressable-2.5.2/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/addressable-2.5.2/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/addressable-2.5.2/tasks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/addressable-2.5.2/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/addressable-2.5.2/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/addressable-2.5.2/tasks" />
+      </excluded>
+    </library>
     <library name="addressable (v2.5.2, chruby: ruby-2.4.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -6269,6 +6291,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/capybara-3.7.0/spec" />
+      </excluded>
+    </library>
+    <library name="capybara (v3.7.1, chruby: ruby-2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/capybara-3.7.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/capybara-3.7.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/capybara-3.7.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/capybara-3.7.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/capybara-3.7.1/spec" />
       </excluded>
     </library>
     <library name="capybara-bootstrap-datepicker (v0.1.1@5033c9, chruby: ruby-2.3.5) [gem]" type="rubylib">
@@ -17437,7 +17475,6 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/2.1.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/json-2.1.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/json-2.1.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/json-2.1.0/data" />
@@ -17448,7 +17485,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/json-2.1.0/references" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/2.1.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/json-2.1.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/json-2.1.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/json-2.1.0/data" />
@@ -24624,6 +24660,28 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.2/gems/public_suffix-3.0.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.2/gems/public_suffix-3.0.1/data" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.2/gems/public_suffix-3.0.1/test" />
+      </excluded>
+    </library>
+    <library name="public_suffix (v3.0.3, chruby: ruby-2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/public_suffix-3.0.3/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/public_suffix-3.0.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/public_suffix-3.0.3/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/public_suffix-3.0.3/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/public_suffix-3.0.3/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/public_suffix-3.0.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/public_suffix-3.0.3/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/public_suffix-3.0.3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/public_suffix-3.0.3/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/public_suffix-3.0.3/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/public_suffix-3.0.3/test" />
       </excluded>
     </library>
     <library name="public_suffix (v3.0.3, chruby: ruby-2.5.1) [gem]" type="rubylib">
@@ -37469,7 +37527,6 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/yajl-ruby/1.4.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/yajl-ruby-1.4.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/yajl-ruby-1.4.1/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/yajl-ruby-1.4.1/spec" />
@@ -37479,7 +37536,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/yajl-ruby-1.4.1/benchmark" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/yajl-ruby/1.4.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/yajl-ruby-1.4.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/yajl-ruby-1.4.1/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/yajl-ruby-1.4.1/spec" />
