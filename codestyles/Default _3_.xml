@@ -17,6 +17,11 @@
   <codeStyleSettings language="HTML">
     <option name="WRAP_ON_TYPING" value="0" />
   </codeStyleSettings>
+  <codeStyleSettings language="Haml">
+    <indentOptions>
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
