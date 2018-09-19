@@ -5255,6 +5255,25 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/bundler-1.16.4/man" />
       </excluded>
     </library>
+    <library name="bundler (v1.16.5, chruby: ruby-2.3.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/bundler-1.16.5/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/bundler-1.16.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/bundler-1.16.5/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/bundler-1.16.5/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/bundler-1.16.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/bundler-1.16.5/man" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/bundler-1.16.5/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/bundler-1.16.5/man" />
+      </excluded>
+    </library>
     <library name="bundler-audit (v0.5.0, chruby: ruby-2.3.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -11574,6 +11593,31 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1792542999/-2083698379/gems/foreman-0.84.0/man" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1792542999/-2083698379/gems/foreman-0.84.0/data" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1792542999/-2083698379/gems/foreman-0.84.0/spec" />
+      </excluded>
+    </library>
+    <library name="foreman (v0.85.0, chruby: ruby-2.3.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/foreman-0.85.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/foreman-0.85.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/foreman-0.85.0/man" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/foreman-0.85.0/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/foreman-0.85.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/foreman-0.85.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/foreman-0.85.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/foreman-0.85.0/man" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/foreman-0.85.0/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/foreman-0.85.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/foreman-0.85.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/foreman-0.85.0/man" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/foreman-0.85.0/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/foreman-0.85.0/spec" />
       </excluded>
     </library>
     <library name="foreman (v0.85.0, chruby: ruby-2.3.7) [gem]" type="rubylib">
