@@ -1553,6 +1553,33 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/appsignal-2.6.1/resources" />
       </excluded>
     </library>
+    <library name="appsignal (v2.7.1, chruby: ruby-2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/appsignal-2.7.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/appsignal-2.7.1/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/appsignal-2.7.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/appsignal-2.7.1/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/appsignal-2.7.1/gemfiles" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/appsignal-2.7.1/resources" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/appsignal-2.7.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/appsignal-2.7.1/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/appsignal-2.7.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/appsignal-2.7.1/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/appsignal-2.7.1/gemfiles" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/appsignal-2.7.1/resources" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/appsignal-2.7.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/appsignal-2.7.1/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/appsignal-2.7.1/gemfiles" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/appsignal-2.7.1/resources" />
+      </excluded>
+    </library>
     <library name="arbre (v1.1.1, chruby: ruby-2.3.7) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
