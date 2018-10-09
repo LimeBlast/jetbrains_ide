@@ -13770,6 +13770,17 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/goldiloader-0.0.10/spec" />
       </excluded>
     </library>
+    <library name="goldiloader (v2.1.2, chruby: ruby-2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/goldiloader-2.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/goldiloader-2.1.2/lib" />
+      </SOURCES>
+    </library>
     <library name="gollum (v4.1.2, chruby: ruby-2.3.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
