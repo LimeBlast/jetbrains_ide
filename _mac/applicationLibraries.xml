@@ -2324,6 +2324,24 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/autoprefixer-rails-6.7.2/spec" />
       </excluded>
     </library>
+    <library name="autoprefixer-rails (v9.1.4, chruby: ruby-2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/autoprefixer-rails-9.1.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/autoprefixer-rails-9.1.4/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/autoprefixer-rails-9.1.4/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/autoprefixer-rails-9.1.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/autoprefixer-rails-9.1.4/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/autoprefixer-rails-9.1.4/vendor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/autoprefixer-rails-9.1.4/spec" />
+      </excluded>
+    </library>
     <library name="awesome_print (v1.7.0, chruby: ruby-2.3.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -4829,6 +4847,28 @@
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bootsnap-1.3.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bootsnap-1.3.1/ext" />
+      </excluded>
+    </library>
+    <library name="bootstrap (v4.1.3, chruby: ruby-2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/bootstrap-4.1.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/bootstrap-4.1.3/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/bootstrap-4.1.3/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/bootstrap-4.1.3/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/bootstrap-4.1.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/bootstrap-4.1.3/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/bootstrap-4.1.3/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/bootstrap-4.1.3/assets" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/bootstrap-4.1.3/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/bootstrap-4.1.3/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/bootstrap-4.1.3/assets" />
       </excluded>
     </library>
     <library name="bootstrap-datepicker-rails (v1.3.0.1, chruby: ruby-2.0.0-p643) [gem]" type="rubylib">
@@ -23268,6 +23308,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1792542999/-2083698379/gems/polyglot-0.3.5/lib" />
       </SOURCES>
+    </library>
+    <library name="popper_js (v1.14.3, chruby: ruby-2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/popper_js-1.14.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/popper_js-1.14.3/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/popper_js-1.14.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/popper_js-1.14.3/assets" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/popper_js-1.14.3/assets" />
+      </excluded>
     </library>
     <library name="posix-spawn (v0.3.13, chruby: ruby-2.3.5) [gem]" type="rubylib">
       <properties>
