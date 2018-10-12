@@ -25,6 +25,7 @@
       <mapping pattern="passwords" type="PLAIN_TEXT" />
       <mapping pattern="admin_outstanding_dues.rb" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile_production" type="PLAIN_TEXT" />
       <mapping pattern="staging" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="cms" type="PLAIN_TEXT" />
@@ -34,6 +35,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="ENABLE_INSTALL_TOOL" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile_staging" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
