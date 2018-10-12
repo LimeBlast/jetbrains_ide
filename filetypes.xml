@@ -7,15 +7,15 @@
       <removed_mapping ext="css" approved="true" type="CSS" />
       <mapping pattern="Docker" type="Dockerfile" />
       <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern=".env-example" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile_uat" type="PLAIN_TEXT" />
       <mapping pattern=".env.example.orig" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
       <mapping pattern=".erdconfig" type="PLAIN_TEXT" />
       <mapping pattern=".ftp-password" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
-      <mapping pattern="ENABLE_INSTALL_TOOL" type="PLAIN_TEXT" />
+      <mapping pattern=".pryrc" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="rbenv_vars" type="PLAIN_TEXT" />
       <mapping pattern="Procfile_qa" type="PLAIN_TEXT" />
@@ -25,14 +25,15 @@
       <mapping pattern="passwords" type="PLAIN_TEXT" />
       <mapping pattern="admin_outstanding_dues.rb" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="staging" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="cms" type="PLAIN_TEXT" />
       <mapping pattern=".rspec" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern=".env-sample" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="staging" type="PLAIN_TEXT" />
-      <mapping pattern=".pryrc" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="ENABLE_INSTALL_TOOL" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
