@@ -18614,6 +18614,25 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/jbuilder-2.7.0/gemfiles" />
       </excluded>
     </library>
+    <library name="jemalloc (v1.0.1, chruby: ruby-2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/jemalloc-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/jemalloc-1.0.1/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/jemalloc-1.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/jemalloc-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/jemalloc-1.0.1/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/jemalloc-1.0.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/jemalloc-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/jemalloc-1.0.1/ext" />
+      </excluded>
+    </library>
     <library name="jmespath (v1.0.2, chruby: ruby-2.3.7) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
