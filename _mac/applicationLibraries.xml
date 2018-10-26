@@ -30594,6 +30594,25 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/os-0.9.6/autotest" />
       </excluded>
     </library>
+    <library name="os (v1.0.0, chruby: ruby-2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/os-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/os-1.0.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/os-1.0.0/autotest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/os-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/os-1.0.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/os-1.0.0/autotest" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/os-1.0.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/os-1.0.0/autotest" />
+      </excluded>
+    </library>
     <library name="padrino-helpers (v0.12.8.1, chruby: ruby-2.4.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -31005,6 +31024,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/paperclip-6.1.0/.github" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/paperclip-6.1.0/gemfiles" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/paperclip-6.1.0/shoulda_macros" />
+      </excluded>
+    </library>
+    <library name="paperclip-compression (v1.0.1, chruby: ruby-2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/paperclip-compression-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/paperclip-compression-1.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/paperclip-compression-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/paperclip-compression-1.0.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/paperclip-compression-1.0.1/bin" />
       </excluded>
     </library>
     <library name="parallel (v1.12.0, chruby: ruby-2.4.0) [gem]" type="rubylib">
