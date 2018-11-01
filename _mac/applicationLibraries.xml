@@ -5573,11 +5573,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/bcrypt-3.1.11/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/bcrypt-3.1.11/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/bcrypt-3.1.11/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/bcrypt-3.1.11/spec" />
@@ -24208,6 +24210,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/1.8.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/json-1.8.6/data" />
@@ -24217,6 +24220,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/json-1.8.6/diagrams" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/1.8.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/json-1.8.6/data" />
@@ -28276,6 +28280,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/msgpack/1.2.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/msgpack-1.2.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/msgpack-1.2.2/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/msgpack-1.2.2/spec" />
@@ -28283,6 +28288,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/msgpack-1.2.2/doclib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/msgpack/1.2.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/msgpack-1.2.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/msgpack-1.2.2/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/msgpack-1.2.2/spec" />
@@ -30112,6 +30118,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.6.8.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/nokogiri-1.6.8.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/nokogiri-1.6.8.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/nokogiri-1.6.8.1/lib" />
@@ -30121,6 +30128,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/nokogiri-1.6.8.1/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.6.8.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/nokogiri-1.6.8.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/nokogiri-1.6.8.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/nokogiri-1.6.8.1/lib" />
@@ -50441,11 +50449,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/websocket-driver/0.6.5" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/websocket-driver-0.6.5/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/websocket-driver-0.6.5/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/websocket-driver-0.6.5/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/websocket-driver/0.6.5" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/websocket-driver-0.6.5/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/websocket-driver-0.6.5/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.5/gems/websocket-driver-0.6.5/examples" />
