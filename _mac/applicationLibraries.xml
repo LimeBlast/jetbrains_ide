@@ -13153,6 +13153,25 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/compass-core-1.0.3/stylesheets" />
       </excluded>
     </library>
+    <library name="compass-h5bp (v0.1.2, chruby: ruby-2.3.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/compass-h5bp-0.1.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/compass-h5bp-0.1.2/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/compass-h5bp-0.1.2/stylesheets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/compass-h5bp-0.1.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/compass-h5bp-0.1.2/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/compass-h5bp-0.1.2/stylesheets" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/compass-h5bp-0.1.2/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/compass-h5bp-0.1.2/stylesheets" />
+      </excluded>
+    </library>
     <library name="compass-h5bp (v1.0.0, chruby: ruby-2.3.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -25817,6 +25836,33 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/1792542999/-2083698379/gems/haml-3.1.6/rails" />
       </excluded>
     </library>
+    <library name="haml (v3.1.8, chruby: ruby-2.3.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/haml-3.1.8/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/haml-3.1.8/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/haml-3.1.8/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/haml-3.1.8/extra" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/haml-3.1.8/rails" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/haml-3.1.8/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/haml-3.1.8/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/haml-3.1.8/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/haml-3.1.8/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/haml-3.1.8/extra" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/haml-3.1.8/rails" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/haml-3.1.8/vendor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/haml-3.1.8/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/haml-3.1.8/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/haml-3.1.8/extra" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/haml-3.1.8/rails" />
+      </excluded>
+    </library>
     <library name="haml (v4.0.5, chruby: ruby-2.0.0-p643) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -27555,6 +27601,26 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/html5-boilerplate-2.1.0/templates" />
+      </excluded>
+    </library>
+    <library name="html5-rails (v0.0.5, chruby: ruby-2.3.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/html5-rails-0.0.5/app" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/html5-rails-0.0.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/html5-rails-0.0.5/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/html5-rails-0.0.5/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/html5-rails-0.0.5/app" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/html5-rails-0.0.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/html5-rails-0.0.5/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/html5-rails-0.0.5/vendor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/html5-rails-0.0.5/test" />
       </excluded>
     </library>
     <library name="htmlentities (v4.3.4, chruby: ruby-2.0.0-p643) [gem]" type="rubylib">
