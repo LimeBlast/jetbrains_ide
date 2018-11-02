@@ -14639,6 +14639,25 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.3/bundler/gems/deep_cloneable-e3cc878f48d4/test" />
       </excluded>
     </library>
+    <library name="deep_cloneable (v1.2.4@f23a03, chruby: ruby-2.3.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/bundler/gems/deep_cloneable-f23a035c49c6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/bundler/gems/deep_cloneable-f23a035c49c6/.git" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/bundler/gems/deep_cloneable-f23a035c49c6/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/bundler/gems/deep_cloneable-f23a035c49c6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/bundler/gems/deep_cloneable-f23a035c49c6/.git" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/bundler/gems/deep_cloneable-f23a035c49c6/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/bundler/gems/deep_cloneable-f23a035c49c6/.git" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/bundler/gems/deep_cloneable-f23a035c49c6/test" />
+      </excluded>
+    </library>
     <library name="deep_cloneable (v2.2.2, chruby: ruby-2.3.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
