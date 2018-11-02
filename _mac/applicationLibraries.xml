@@ -11104,6 +11104,28 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.3/gems/chunky_png-1.2.5/benchmarks" />
       </excluded>
     </library>
+    <library name="chunky_png (v1.3.10, chruby: ruby-2.3.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/chunky_png-1.3.10/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/chunky_png-1.3.10/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/chunky_png-1.3.10/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/chunky_png-1.3.10/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/chunky_png-1.3.10/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/chunky_png-1.3.10/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/chunky_png-1.3.10/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/chunky_png-1.3.10/benchmarks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/chunky_png-1.3.10/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/chunky_png-1.3.10/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/chunky_png-1.3.10/benchmarks" />
+      </excluded>
+    </library>
     <library name="chunky_png (v1.3.10, chruby: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -12924,6 +12946,33 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/compass-0.12.4/test" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/compass-0.12.4/examples" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/compass-0.12.4/frameworks" />
+      </excluded>
+    </library>
+    <library name="compass (v0.12.7, chruby: ruby-2.3.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/compass-0.12.7/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/compass-0.12.7/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/compass-0.12.7/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/compass-0.12.7/examples" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/compass-0.12.7/features" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/compass-0.12.7/frameworks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/compass-0.12.7/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/compass-0.12.7/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/compass-0.12.7/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/compass-0.12.7/examples" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/compass-0.12.7/features" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/compass-0.12.7/frameworks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/compass-0.12.7/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/compass-0.12.7/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/compass-0.12.7/examples" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/compass-0.12.7/frameworks" />
       </excluded>
     </library>
     <library name="compass-import-once (v1.0.5, chruby: ruby-2.5.1) [gem]" type="rubylib">
@@ -23148,6 +23197,28 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/friendly_id-globalize-1.0.0.alpha1/test" />
       </excluded>
     </library>
+    <library name="fssm (v0.2.10, chruby: ruby-2.3.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/fssm-0.2.10/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/fssm-0.2.10/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/fssm-0.2.10/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/fssm-0.2.10/profile" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/fssm-0.2.10/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/fssm-0.2.10/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/fssm-0.2.10/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/fssm-0.2.10/profile" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/fssm-0.2.10/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/fssm-0.2.10/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/fssm-0.2.10/profile" />
+      </excluded>
+    </library>
     <library name="fssm (v0.2.10, chruby: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -25673,6 +25744,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.3/gems/haml-rails-0.3.4/test" />
+      </excluded>
+    </library>
+    <library name="haml-rails (v0.4, chruby: ruby-2.3.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/haml-rails-0.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/haml-rails-0.4/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/haml-rails-0.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/haml-rails-0.4/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/haml-rails-0.4/test" />
       </excluded>
     </library>
     <library name="haml-rails (v0.5.3, chruby: ruby-2.0.0-p643) [gem]" type="rubylib">
