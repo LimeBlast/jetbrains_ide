@@ -2489,7 +2489,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/appsignal/2.7.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/appsignal-2.7.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/appsignal-2.7.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/appsignal-2.7.1/lib" />
@@ -2498,7 +2497,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/appsignal-2.7.1/resources" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/appsignal/2.7.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/appsignal-2.7.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/appsignal-2.7.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/appsignal-2.7.1/lib" />
@@ -44135,6 +44133,27 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/skylight-3.0.0/ext" />
       </excluded>
     </library>
+    <library name="skylight (v3.1.1, chruby: ruby-2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/skylight/3.1.1" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/skylight-3.1.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/skylight-3.1.1/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/skylight-3.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/skylight/3.1.1" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/skylight-3.1.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/skylight-3.1.1/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/skylight-3.1.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/skylight-3.1.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/skylight-3.1.1/ext" />
+      </excluded>
+    </library>
     <library name="skylight-core (v2.0.2, chruby: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -44155,6 +44174,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/skylight-core-3.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="skylight-core (v3.1.1, chruby: ruby-2.3.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/skylight-core-3.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.7/gems/skylight-core-3.1.1/lib" />
       </SOURCES>
     </library>
     <library name="slim (v1.2.0, chruby: ruby-1.9.3-p551) [gem]" type="rubylib">
