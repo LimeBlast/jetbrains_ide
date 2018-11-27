@@ -6808,13 +6808,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/bcrypt-3.1.12/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/bcrypt-3.1.12/spec" />
@@ -20919,17 +20917,20 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/fog-1.6.0/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/fog-1.6.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/fog-1.6.0/docs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/fog-1.6.0/tests" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/fog-1.6.0/benchs" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/fog-1.6.0/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/fog-1.6.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/fog-1.6.0/docs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/fog-1.6.0/tests" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/fog-1.6.0/benchs" />
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/fog-1.6.0/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/fog-1.6.0/docs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/fog-1.6.0/tests" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/fog-1.6.0/benchs" />
       </excluded>
     </library>
@@ -27833,13 +27834,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/iconv/1.0.5" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/iconv-1.0.5/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/iconv-1.0.5/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/iconv-1.0.5/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/iconv/1.0.5" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/iconv-1.0.5/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/iconv-1.0.5/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/iconv-1.0.5/test" />
@@ -30248,14 +30247,12 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/kgio/2.11.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/kgio-2.11.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/kgio-2.11.2/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/kgio-2.11.2/test" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/kgio-2.11.2/archive" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/kgio/2.11.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/kgio-2.11.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/kgio-2.11.2/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/kgio-2.11.2/test" />
@@ -34117,7 +34114,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/msgpack/1.2.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/msgpack-1.2.4/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/msgpack-1.2.4/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/msgpack-1.2.4/spec" />
@@ -34125,7 +34121,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/msgpack-1.2.4/doclib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/msgpack/1.2.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/msgpack-1.2.4/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/msgpack-1.2.4/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/msgpack-1.2.4/spec" />
@@ -38484,13 +38479,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/pg/0.21.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/pg-0.21.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/pg-0.21.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/pg-0.21.0/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/pg/0.21.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/pg-0.21.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/pg-0.21.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/pg-0.21.0/spec" />
@@ -44336,7 +44329,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/raindrops/0.19.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/raindrops-0.19.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/raindrops-0.19.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/raindrops-0.19.0/test" />
@@ -44344,7 +44336,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/raindrops-0.19.0/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/raindrops/0.19.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/raindrops-0.19.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/raindrops-0.19.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/raindrops-0.19.0/test" />
@@ -59796,7 +59787,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/unicorn/5.4.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/unicorn-5.4.1/t" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/unicorn-5.4.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/unicorn-5.4.1/ext" />
@@ -59808,7 +59798,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/unicorn-5.4.1/Documentation" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/unicorn/5.4.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/unicorn-5.4.1/t" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/unicorn-5.4.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.3/gems/unicorn-5.4.1/ext" />
