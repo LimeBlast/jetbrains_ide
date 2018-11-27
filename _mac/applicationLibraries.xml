@@ -6994,7 +6994,7 @@
     </library>
     <library name="bigdecimal (v1.2.8, chruby: ruby-2.3.4) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES />
       <SOURCES />
@@ -15263,7 +15263,7 @@
     </library>
     <library name="did_you_mean (v1.0.0, chruby: ruby-2.3.4) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/doc" />
@@ -28049,7 +28049,7 @@
     </library>
     <library name="io-console (v0.4.5, chruby: ruby-2.3.4) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES />
       <SOURCES />
@@ -29187,7 +29187,7 @@
     </library>
     <library name="json (v1.8.3, chruby: ruby-2.3.4) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.4/lib/ruby/2.3.0/json/add" />
@@ -33742,7 +33742,7 @@
     </library>
     <library name="minitest (v5.8.5, chruby: ruby-2.3.4) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/minitest-5.8.5/lib" />
@@ -35492,7 +35492,7 @@
     </library>
     <library name="net-telnet (v0.1.1, chruby: ruby-2.3.4) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/net-telnet-0.1.1/bin" />
@@ -38834,7 +38834,7 @@
     </library>
     <library name="power_assert (v0.2.6, chruby: ruby-2.3.4) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/power_assert-0.2.6/lib" />
@@ -40081,7 +40081,7 @@
     </library>
     <library name="psych (v2.1.0, chruby: ruby-2.3.4) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.4/lib/ruby/2.3.0/psych/json" />
@@ -44459,7 +44459,7 @@
     </library>
     <library name="rake (v10.4.2, chruby: ruby-2.3.4) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/rake-10.4.2/bin" />
@@ -45978,7 +45978,7 @@
     </library>
     <library name="rdoc (v4.2.1, chruby: ruby-2.3.4) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.4/lib/ruby/2.3.0/rdoc/rd" />
@@ -55749,7 +55749,7 @@
     </library>
     <library name="test-unit (v3.1.5, chruby: ruby-2.3.4) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/doc" />
