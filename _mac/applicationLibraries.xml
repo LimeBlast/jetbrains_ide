@@ -28787,6 +28787,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.3/gems/jekyll-3.8.5/rubocop" />
       </excluded>
     </library>
+    <library name="jekyll-mermaid (v1.0.0, chruby: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.3/gems/jekyll-mermaid-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.3/gems/jekyll-mermaid-1.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="jekyll-sass-converter (v1.5.2, chruby: ruby-2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
